@@ -1,0 +1,4881 @@
+{
+  "entities": {
+    "bank": {
+      "automatically_extensible": false,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "Industrial and Commercial Bank of China"
+        },
+        {
+          "synonyms": [],
+          "value": "China Construction Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Agricultural Bank of China"
+        },
+        {
+          "synonyms": [],
+          "value": "Bank of China"
+        },
+        {
+          "synonyms": [],
+          "value": "Mitsubishi UFJ Financial Group"
+        },
+        {
+          "synonyms": [],
+          "value": "JPMorgan Chase"
+        },
+        {
+          "synonyms": [],
+          "value": "HSBC Holdings PLC"
+        },
+        {
+          "synonyms": [],
+          "value": "Bank of America"
+        },
+        {
+          "synonyms": [],
+          "value": "BNP Paribas"
+        },
+        {
+          "synonyms": [],
+          "value": "Cr\u00e9dit Agricole"
+        },
+        {
+          "synonyms": [],
+          "value": "Citigroup Inc."
+        },
+        {
+          "synonyms": [],
+          "value": "Japan Post Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Wells Fargo"
+        },
+        {
+          "synonyms": [],
+          "value": "Sumitomo Mitsui Financial Group"
+        },
+        {
+          "synonyms": [],
+          "value": "Mizuho Financial Group"
+        },
+        {
+          "synonyms": [],
+          "value": "Banco Santander"
+        },
+        {
+          "synonyms": [],
+          "value": "Deutsche Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale"
+        },
+        {
+          "synonyms": [],
+          "value": "Groupe BPCE"
+        },
+        {
+          "synonyms": [],
+          "value": "Barclays"
+        },
+        {
+          "synonyms": [],
+          "value": "Bank of Communications"
+        },
+        {
+          "synonyms": [],
+          "value": "Postal Savings Bank of China"
+        },
+        {
+          "synonyms": [],
+          "value": "Royal Bank of Canada"
+        },
+        {
+          "synonyms": [],
+          "value": "United Kingdom Lloyds Banking Group"
+        },
+        {
+          "synonyms": [],
+          "value": "ING Group"
+        },
+        {
+          "synonyms": [],
+          "value": "Toronto-Dominion Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "China Merchants Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Cr\u00e9dit Mutuel"
+        },
+        {
+          "synonyms": [],
+          "value": "Norinchukin Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "UBS"
+        },
+        {
+          "synonyms": [],
+          "value": "Industrial Bank (China)"
+        },
+        {
+          "synonyms": [],
+          "value": "UniCredit"
+        },
+        {
+          "synonyms": [],
+          "value": "Goldman Sachs"
+        },
+        {
+          "synonyms": [],
+          "value": "Shanghai Pudong Development Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Intesa Sanpaolo"
+        },
+        {
+          "synonyms": [],
+          "value": "Royal Bank of Scotland Group"
+        },
+        {
+          "synonyms": [],
+          "value": "China CITIC Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "China Minsheng Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Morgan Stanley"
+        },
+        {
+          "synonyms": [],
+          "value": "Scotiabank"
+        },
+        {
+          "synonyms": [],
+          "value": "Credit Suisse"
+        },
+        {
+          "synonyms": [],
+          "value": "Banco Bilbao Vizcaya Argentaria"
+        },
+        {
+          "synonyms": [],
+          "value": "Commonwealth Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Standard Chartered"
+        },
+        {
+          "synonyms": [],
+          "value": "Australia and New Zealand Banking Group"
+        },
+        {
+          "synonyms": [],
+          "value": "Rabobank"
+        },
+        {
+          "synonyms": [],
+          "value": "Nordea"
+        },
+        {
+          "synonyms": [],
+          "value": "Westpac"
+        },
+        {
+          "synonyms": [],
+          "value": "China Everbright Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Bank of Montreal"
+        },
+        {
+          "synonyms": [],
+          "value": "DZ Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "National Australia Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Danske Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "State Bank of India"
+        },
+        {
+          "synonyms": [],
+          "value": "Resona Holdings"
+        },
+        {
+          "synonyms": [],
+          "value": "Commerzbank"
+        },
+        {
+          "synonyms": [],
+          "value": "Sumitomo Mitsui Trust Holdings"
+        },
+        {
+          "synonyms": [],
+          "value": "Ping An Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Canadian Imperial Bank of Commerce"
+        },
+        {
+          "synonyms": [],
+          "value": "U.S. Bancorp"
+        },
+        {
+          "synonyms": [],
+          "value": "CaixaBank"
+        },
+        {
+          "synonyms": [],
+          "value": "Truist Financial"
+        },
+        {
+          "synonyms": [],
+          "value": "ABN AMRO Group"
+        },
+        {
+          "synonyms": [],
+          "value": "KB Financial Group Inc"
+        },
+        {
+          "synonyms": [],
+          "value": "Shinhan Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Sberbank of Russia"
+        },
+        {
+          "synonyms": [],
+          "value": "Nomura Holdings"
+        },
+        {
+          "synonyms": [],
+          "value": "DBS Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Ita\u00fa Unibanco"
+        },
+        {
+          "synonyms": [],
+          "value": "PNC Financial Services"
+        },
+        {
+          "synonyms": [],
+          "value": "Huaxia Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Nonghyup Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Capital One"
+        },
+        {
+          "synonyms": [],
+          "value": "Bank of Beijing"
+        },
+        {
+          "synonyms": [],
+          "value": "The Bank of New York Mellon"
+        },
+        {
+          "synonyms": [],
+          "value": "Banco do Brasil"
+        },
+        {
+          "synonyms": [],
+          "value": "Hana Financial Group"
+        },
+        {
+          "synonyms": [],
+          "value": "OCBC Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Banco Bradesco"
+        },
+        {
+          "synonyms": [],
+          "value": "Handelsbanken"
+        },
+        {
+          "synonyms": [],
+          "value": "Caixa Econ\u00f4mica Federal"
+        },
+        {
+          "synonyms": [],
+          "value": "KBC Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "China Guangfa Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Nationwide Building Society"
+        },
+        {
+          "synonyms": [],
+          "value": "Woori Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "DNB ASA"
+        },
+        {
+          "synonyms": [],
+          "value": "SEB Group"
+        },
+        {
+          "synonyms": [],
+          "value": "Bank of Shanghai"
+        },
+        {
+          "synonyms": [],
+          "value": "United Overseas Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Bank of Jiangsu"
+        },
+        {
+          "synonyms": [],
+          "value": "La Banque postale"
+        },
+        {
+          "synonyms": [],
+          "value": "Landesbank Baden-W\u00fcrttemberg"
+        },
+        {
+          "synonyms": [],
+          "value": "Erste Group"
+        },
+        {
+          "synonyms": [],
+          "value": "Industrial Bank of Korea"
+        },
+        {
+          "synonyms": [],
+          "value": "Qatar National Bank"
+        },
+        {
+          "synonyms": [],
+          "value": "Banco Sabadell"
+        },
+        {
+          "synonyms": [],
+          "value": "Swedbank"
+        },
+        {
+          "synonyms": [],
+          "value": "BayernLB"
+        },
+        {
+          "synonyms": [],
+          "value": "State Street Corporation"
+        },
+        {
+          "synonyms": [],
+          "value": "China Zheshang Bank"
+        }
+      ],
+      "matching_strictness": 1.0,
+      "use_synonyms": true
+    },
+    "card": {
+      "automatically_extensible": false,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "debit"
+        },
+        {
+          "synonyms": [],
+          "value": "credit"
+        },
+        {
+          "synonyms": [],
+          "value": "VISA"
+        }
+      ],
+      "matching_strictness": 1.0,
+      "use_synonyms": true
+    },
+    "complaint-cause": {
+      "automatically_extensible": true,
+      "data": [
+        {
+          "synonyms": [
+            "fraudulent",
+            "trickery",
+            "fraudulent account",
+            "fraudulent accounts",
+            "fraudulent activity",
+            "opened fraudulently",
+            "fraud account",
+            "victim of identity fraud",
+            "fraudulent transaction",
+            "fraud activities",
+            "fraudulent credit card account",
+            "fraudulent address",
+            "fraudulent inquiries",
+            "were used fraudulently",
+            "fraudulent in my credit report",
+            "victim of fraud",
+            "fraudulent usage"
+          ],
+          "value": "fraud"
+        },
+        {
+          "synonyms": [
+            "id theft",
+            "identification theft",
+            "victim of identity theft",
+            "result of identity theft",
+            "filed identity theft",
+            "victim of id theft",
+            "identity theft victim",
+            "risk for identity theft",
+            "reported the identity theft",
+            "id thief"
+          ],
+          "value": "identity theft"
+        },
+        {
+          "synonyms": [
+            "harassed",
+            "harassing",
+            "continued harassment",
+            "this is harassment",
+            "extremly harassing",
+            "hrassing phone calls",
+            "harassing me",
+            "bordering on harassment",
+            "harassing me at work"
+          ],
+          "value": "harassment"
+        },
+        {
+          "synonyms": [
+            "not unauthorized",
+            "did not authorize",
+            "unauthorized id fraud",
+            "without my authorization"
+          ],
+          "value": "unauthorized"
+        },
+        {
+          "synonyms": [
+            "data breaches"
+          ],
+          "value": "data breach"
+        },
+        {
+          "synonyms": [
+            "negative fraudulent information",
+            "noticed inaccuracies",
+            "fraudulent information",
+            "incorrect information",
+            "inaccuracies",
+            "inaccurate information",
+            "wrong information",
+            "information is not correct",
+            "incorrect info",
+            "incorrect information",
+            "outdated information",
+            "erroneous information",
+            "inaccurate bankruptcy information",
+            "reportinginaccuratelist"
+          ],
+          "value": "false information"
+        },
+        {
+          "synonyms": [
+            "filed bakruptcy",
+            "notified bankruptcy",
+            "filing bankruptcy",
+            "bankruptcy was added"
+          ],
+          "value": "bankruptcy"
+        },
+        {
+          "synonyms": [
+            "harming my reputation",
+            "damaged my reputation"
+          ],
+          "value": "defamation"
+        },
+        {
+          "synonyms": [
+            "debts"
+          ],
+          "value": "debt"
+        }
+      ],
+      "matching_strictness": 1.0,
+      "use_synonyms": true
+    },
+    "room": {
+      "automatically_extensible": false,
+      "data": [
+        {
+          "synonyms": [],
+          "value": "bedroom"
+        },
+        {
+          "synonyms": [
+            "main room",
+            "lounge"
+          ],
+          "value": "living room"
+        },
+        {
+          "synonyms": [
+            "yard",
+            "backyard"
+          ],
+          "value": "garden"
+        }
+      ],
+      "matching_strictness": 1.0,
+      "use_synonyms": true
+    },
+    "snips/temperature": {}
+  },
+  "intents": {
+    "consumer-complaint": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "They are "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me over an account that I never opened"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My credit data and pii was released and shared improperly. I am now at high risk to identy and credit "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX  and Equifax continue to report "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "negative fraudulent information"
+            },
+            {
+              "text": " on my credit report. They are in violation of the FCRA."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "sent po report "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "id theft"
+            },
+            {
+              "text": " cra violation inaccurate information"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am a victim of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I JUST FILED "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "BANKRUPTCY"
+            },
+            {
+              "text": " IN XX/XX/XXXX AND ALL DEBTS WERE DISCHARGED IN ON XXXX/XXXX/2015. THIS COLLECTION AGENCY KEEPS REPORTING AND LEFT THE ACCT OPEN WHICH HARMS MY ATTEMPT IN REBUILDING MY CREDIT."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The company has engaged in obvious "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            },
+            {
+              "text": ", it has refused to release the title on a property that has been paid off. Persons that have purchased the property are unable to complete the purchase and move in."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This company is attempting to collect "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " that is not due from an old landlord. I am filing a complaint against the landlord company, and have emails to show several inconsistencies in misappropriations of funds within my account."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            },
+            {
+              "text": " the account is not mine never to any school"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I was getting calls sometimes within XXXX minutes of each other through an automated system. They kept "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me even though I am disputing the debt."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Discover "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card did a hard credit check, without consent. I have there card, if there going to check. My current score it should be a short credit check. \\nthank you"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " showing on credit report that does not belong to me. This was reported several times to XXXX and TransUnion, XXXX This account does not belong to me"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I DO NOT owe this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ".. I asked enhanced recovery ( XXXX ) to prove that I owe this debt and to verify it with some sort of original contract but they did not. They sent a bill with a balance."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX XXXX-2016 Not my account "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Fraud account"
+            },
+            {
+              "text": " "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Citicard allowed my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card to be used over the credit limit they set. Then instead of allowing me to pay my original minimum payment they are requesting I pay the minimum in addition to the over the credit limit amount."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I recently reviewed my credit profile and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "noticed inaccuracies"
+            },
+            {
+              "text": " and false accusations and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent accounts"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "An account with \" XXXX XXXX '' was opened in my name for {$300.00}. I did not open this account. I reported "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent activity"
+            },
+            {
+              "text": " to my bank when noticing money deducted from my account. Third party now put me in collections although it was "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Repeatedly contacted me and my employer about a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " that I incurred due to the hurricane cutting off my earning potential."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am a victim of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": " and this debt does not belong to me. \\n\\nPlease see the identity theft report and legal affidavit attached."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "BestBuy/CBNA has not updated the payment status on  XXXX   &   XXXX  to paid.   XXXX   is still reporting \" Bad "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " & placed for collection & skip '' The balance is  XXXX ."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX told me they can run my credit as long as I owe them without my permission this is for a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " from 2016"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Hunter warfield has been calling me for two years straight over 10 times per day in regards to collecting a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " that does n't belong to me. I 've spoken with them about this yet and still they call."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "SOMEONES BEEN USING MY PERSONAL INFORMATION APPLYING FOR CREDIT AND USING MY NAME FOR MEDICAL PURPOSES I CONTACTED TRANS UNION, XXXX  AND XXXX TO UPDATE MY PROFILE THEY HAVE YET TO DO SO ... ATTACH IS MY REPORT ON ALL INQUIRES AND "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "FRAUDULENT ACCOUNTS"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX  XXXX is reporting a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " I do not owe. This debt was for an XXXX XXXX which was returned shortly after I acquired it. This debt is also past the statute of limitations and it should not be owed."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The "
+            },
+            {
+              "entity": "bank",
+              "slot_name": "bank",
+              "text": "Bank of America"
+            },
+            {
+              "text": " is charging me an astronomical fee for insurance that has lapsed for 11 months in 2018. I can not get insurance with a company due to the fact that the time has already passed. This should be against the law."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I never applied for this and would like it immediately removed. This was the result of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This account is still being reported to Equifax as an installment amount ; this car was refinanced by XXXX XXXX XXXX XXXX in XX/XX/2018 2018 The account needs to be moved to paid in full and closed. Its ruining my "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " to income ratio."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Another person 's credit information is showing up in my credit report I have only one major "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card under my name but lot of information coming up isn't related to me"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Received collection letter from Revenue Enterprises regarding "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " that was already paid by health insurance"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am a victim of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": " and this debt does not belong to me. Please see the identity theft report and legal affidavit attached."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX  continue to place a deficient on tradeline. Requested company to verified "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". Company failed to comply to FCRA Guidelines. Requesting removal off Credit file."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "False "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " was re-inserted onto my credit report and failed to notify me within XXXX business days."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Equifax allowed my personal information ( name, SSN, address, driver 's license number ) to be released in a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A company called CSS contacted my mother concerning a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " she did n't owe. We asked them for their address so we could send them a declaration of debt but they would n't give us their address."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have been a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "victim of identity theft"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am a victim of identity theft. The information listed below, which appears on my credit report, does not relate to any transaction ( s )  that I have made. It is the "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "result of identity theft"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "portfolio recovery has repeatedly claimed I owe a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " of XXXX with no proof. I have written and asked for any legal proof and they constantly deny me a response. \\n\\n\\n\\nThey have hounded me for many years with collection letters."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Was not aware of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " owed opened XXXX2016 from original debtor  XXXX XXXX XXXX XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I do not owe any "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card with this institution."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "CRA VIOLATION / NO KNOWLEDGE OF FRAUDULENT ACCOUNT APPEARED ON MY EQUIFAX CREDIT REPORT. FTC "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "ID THEFT"
+            },
+            {
+              "text": " REPORT  XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "On XX/XX/2017 Receivable Performance re-inserted an old "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " onto my credit report and failed to notify me within 5 business days afterwards and wo n't remove this previously Deleted item."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I was an authorized user on a Capital One "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card. I asked to be removed several months ago, XX/XX/2017. \\n\\nI have not been removed yet and the primary card holder has allowed the account to go delinquent, which negatively affects my credit."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "it has been almost one year I am dealing with Equifax, they refuse to remove "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent information"
+            },
+            {
+              "text": " from my report. I sent the Police Report also FTC report, but they don't remove them."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "company closed all "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card accounts on XX/XX/2019."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Wells Fargo has not responded any further in regards to the investigation as to why they are still reporting a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " on my credit report that's more than 7 years old."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "sent "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " validation letter multiple times XX/XX/2019 XX/XX/XXXX XX/XX/2019 final letter sent XX/XX/2019"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "You all are reporting a (debt) on my credit report that I have paid directly with XXXX XXXX XXXX/XXXX. I do not owe them anything. I paid them in person."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Someone use my credit information to obtain an auto loan as well as personal "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " cards. I disputed the information with the credit bureaus the some items still remain."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "After reviewing my credit report there's misleading information that appears on there, more specifically an account that does not belong to me, it looks like this account was "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "opened fraudulently"
+            },
+            {
+              "text": " on XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I need all "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " cards prior 2012 removed from all credit reports. \\n\\nAlso, i have a repossessed vehicle and the car wasnt mine. It was apart of ex-wife name but for some reason its on my report"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This is a follow up complaint to CFPB complaint ID XXXX. XXXX continues to report this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " on my credit report despite my repeatedly disputing the debt and explaining why this is not owed. I ask politely for this to be corrected immediately."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have had repeated calls from this company after I told them I disputed the "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " through the original company as well as them. They continue to call without verifying first which violates the fair debt collection practices."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "CAVALRY PORTFOLIO SERVICE have file a complaint with the XXXX Police dept and the FTC please remove this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Fraudulent account"
+            },
+            {
+              "text": " ASAP!"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "there are inquiries on my credit report that is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent"
+            },
+            {
+              "text": " and there are ssn on my credit report that is not mines and names on my account that is mot mines and accounts that is not mines"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have sent this company numerous documents to show that I was a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "victim of identity fraud"
+            },
+            {
+              "text": " and that these account do not belong to me I live in Ga and this hospital is in florida."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My credit was used in a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent transaction"
+            },
+            {
+              "text": " at XXXX XXXX XXXX XXXX XXXX XXXX, XXXX XXXX XXXX, XXXX, New York XXXX. The date was XX/XX/2019 and the application number is XXXX. The car was XXXX XXXX XXXX. I did not make this purchase."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have no knowledge of the following inquiry XXXX XXXX XXXXXX/XX/2018. Please investigate to ensure there is no complaint-cause](fraudulent activity)."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Many "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Fraud Activities"
+            },
+            {
+              "text": " is going on with someone trying to open accounts I have a fraud alert on all Major Credit Bureaus How is it that they can apply for credit using my personal information with my Authorization"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "DID A BALANCE TRASFER WITH CHASE. THE TERMS WERE NO INTERST ON THE TRANSFER. AND PAY YOUR REGULAR CHARGES. I DID. THEY STILL CHARGE ME INSTREST. THIS IS A "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "FRAUD"
+            },
+            {
+              "text": " COMPANY THAT LIES TO CONSUMERS"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My daughter opened a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent credit card account"
+            },
+            {
+              "text": " in my wife 's name and attached it to our bank account. It was open from  XXXX   XXXX  until  XXXX   XXXX . Chase bank is doing very little to help us. We have filed a police report."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Capitol One is reporting a closed account in the amount of {$2100.00}. Card was opened XX/XX/XXXX. Showing derogatory as of XX/XX/XXXX and CLOSED. I never opened this card. Ever. It "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent"
+            },
+            {
+              "text": ". It wasn't me. I want it removed off my report ASAP."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "There is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "incorrect information"
+            },
+            {
+              "text": " on my file that may be leading to "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent accounts"
+            },
+            {
+              "text": " being opened in my name. Please see attached document"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have multiple inquiries on my credit file that i did not approve or have knowledge about and they are "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "my bank of America checking account was closed on XXXX XXXX XXXX due to a check for the amount of {$230.00}. this check was sent to me by a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent"
+            },
+            {
+              "text": " company acting as a business looking to hire me to run business errands through via XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "There is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Incorrect information"
+            },
+            {
+              "text": " or "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent"
+            },
+            {
+              "text": " .This is discrimination based on gender race and financial capabilities. I want to file lawsuits against XXXX XXXX and Equifax for libel and slander."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I attempted to get my free credit report from XXXX and I am unable to verify my identity, due to my name and social security number being attached to somebody else 's address and birthdate."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "HAS NOT REMOVED THESE "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "FRAUDULENT ACCOUNTS"
+            },
+            {
+              "text": " AND ITS TORN MY CREDIT UP AS A RESULT"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Sav-it collection show a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " that they say  1 they could n't reach me, and further, it was settled with the company for {$170.00}. The company was XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "THIS COMPANY IS REPORTING AN ACCOUNT ON MY CREDIT THAT IS NOT MINE/INACCURATE "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "FRAUD"
+            },
+            {
+              "text": ". I DID NOT GIVE NY PERMISSION TO REPORT THIS ACCOUNT AND I WAS NOT NOTIFIED THAT THIS ACCOUNT WAS OR WILL BE REPORTED TO MY CREDIT REPORT."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX XXXX {$270.00} Opened- XX/XX/XXXX This is a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent account"
+            },
+            {
+              "text": " opened in my name. I have never had anything in my name. \\n\\nXXXX XXXX XXXX {$420.00} XX/XX/XXXX This is a fraudulent account opened in my name."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am a victim of identity theft. The following accounts are "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "unauthorized"
+            },
+            {
+              "text": " and dont belong to me  XXXX XXXX XXXX, XXXX XXXX and XXXX/XXXX XXXX XXXX, with a balance of {$420.00}."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This account was "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "opened fraudulently"
+            },
+            {
+              "text": " by I never lived at address where account was opened"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX/XXXX opened up a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent account"
+            },
+            {
+              "text": " in my name. My information was used and i didn't realize this."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "THE "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "FRAUDULENT ADDRESS"
+            },
+            {
+              "text": " ON MY CREDIT REPORT"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Many "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent inquiries"
+            },
+            {
+              "text": " are reporting on my credit report  XXXX XX/XX/XXXX XXXX XX/XX/XXXX XXXX XXXX / XXXX XX/XX/XXXX XXXX XXXX XXXX XXXX XX/XX/XXXX XXXX   XX/XX/XXXX XXXX XXXX XXXX  XX/XX/XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "These cards "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "were used fraudulently"
+            },
+            {
+              "text": ", much of the address on report are incorrect I never lived at some of the address '. The only loans are student loans and paid off car loans that are mine."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I HAVE FOUND INFORMATION THAT I BELIEVE IS "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "FRAUDULENT IN MY CREDIT REPORT"
+            },
+            {
+              "text": " THIS INFORMATION IS DEROGATORY AND DAMAGING TO MY CREDIT. PLEASE HELP ME TO CLEAR THIS ERROR."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have no knowledge of the following inquiry XXXXXX/XX/2019. Please investigate to ensure there is no "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent activity"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "victim of fraud"
+            },
+            {
+              "text": " this account from XXXX XXXX is not mine"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "There were "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent usage"
+            },
+            {
+              "text": " of my credit report shared without consent, I have a lot of credit inquiries on my report that I do not recognize. I have no knowledge of these credit inquiries from these unknown sources."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Fraudulent account"
+            },
+            {
+              "text": " "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": " XXXX co drs Open XX/XX/18 Amount XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I found a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent"
+            },
+            {
+              "text": " "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " on my credit report and Credit Reporting Agencies refuses to investigate and block the fraudulent item from my report."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I looked at my credit report and found a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraudulent account"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Hi there, The Credit Reporting Agencies refuse to Really investigate my case, I do see "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Fraudulent"
+            },
+            {
+              "text": " "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Bankruptcy"
+            },
+            {
+              "text": " and one XXXX Account on my credit report"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have 2 closed mortgage accounts which "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "were fraudulently opened"
+            },
+            {
+              "text": ". XXXX XXXX XXXX XXXX and Caliber Home Mortgage."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have no knowledge of this account. I have sent out a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " validation letter XX/XX/2018 and haven't heard any responses from the company. I have "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "filed identity theft"
+            },
+            {
+              "text": " with The FTC."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I was a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "victim of ID theft"
+            },
+            {
+              "text": " and prior to putting a freeze with the credit bureaus someone attempted to use my information to try to obtain credit under my name with several financial institutions."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I AM A "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "VICTIM OF ID THEFT"
+            },
+            {
+              "text": ". I HAVE ENCLOSED THE PROPER DOCUMENTS TO BLOCK THE INFORMATION ON MY FTC REPORTS."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Did Not Authorize"
+            },
+            {
+              "text": " This Account I've Been a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Victim of Identify Theft"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A new "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Identity theft victim"
+            },
+            {
+              "text": ", police report  XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Equifax mishandled my information and put me, along with 143 million other people at "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "risk for identity theft"
+            },
+            {
+              "text": ". I am listed as a potential victim on their website."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "hippa violation item no knowledge "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "id theft"
+            },
+            {
+              "text": " victim sent po report sent cra"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "CRA VIOLATION / NO KNOWLEDGE OF THE FRAUDULENT ACCOUNT DUE TO "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "ID THEFT"
+            },
+            {
+              "text": " APPEARED ON MY TRANSUNION CREDIT REPORT. FTC ID THEFT  XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "the company has been contacted more that once to let them know that the debit did n't belong to me and was done via "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have been a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "victim of identity theft"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "put a collection on my credit report.. I do not owe this debt. I live in XXXX Carolina and this is supposedly from California. I "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "reported the identity theft"
+            },
+            {
+              "text": " to the credit agencies. these XXXX 's will not remove this from my credit."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "victim of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "ID thief"
+            },
+            {
+              "text": ", and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": " someone take a mortage using my credit and car loan"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I HAVE REACHED OUT TO THE BUREAUS AND ASKED THEM TO REMOVE THE INFORMATION RELATED TO "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "IDENTITY THEFT"
+            },
+            {
+              "text": ". I SUBMITTED AN FTC THEFT AFFIDAVIT AND POLICE REPORT BUT THEY HAVE BEEN IGNORED AND THE FRAUDULENT INFORMATION IS STILL BEING REPORTED."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "CRA VIOLATION "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "ID THEFT"
+            },
+            {
+              "text": " "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "INACCURATE INFORMATION"
+            },
+            {
+              "text": " NOT MINE EQUIFAX SECURITY BREACH"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Information and inquiries reporting on my credit that I have no knowledge of. I've been a victim of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identification theft"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "incorrect info"
+            },
+            {
+              "text": " on report. "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "id theft victim"
+            },
+            {
+              "text": ". \\nchapter XXXX bankruptcy court XXXX XXXX XXXX XXXX XXXX XXXX XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "im an "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "id theft"
+            },
+            {
+              "text": " victim. these items do not belong to me u s bankruptcy court opened XX/XX/2012 XXXX XXXX XXXX {$5300.00} ( XXXX XXXX XXXX XXXX XXXX  ) XXXX XXXX XXXX  {$2200.00}"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The below debt is a result of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "ID Theft"
+            },
+            {
+              "text": " and has been reported as such  1. XXXX   XXXX XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Harley-Davidson financial keeps "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me about a motorcycle that I dont have. Stop calling my phone and sending me letters as I do not have an account with you."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Getting "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " phone calls and threating to have me arrested National credit systems, debt collectors."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "After closing an account with XXXX XXXX and sending in final payment. The account was sold for a balance that does not exist. I am being "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " day in and day out by this debt collection company for a debt purchased that was already settled in full."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have contact Hunter Warfield and ask that they stop contacting me. I never had contract with them. I have never signed a contract with Hunter Warefield.  I 've never gotten a solution other than continue "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " phone calls from some rude guy."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "We were "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " and harmed financially by our servicer and did not receive any restitution from them after they were fined by the CFPB and the FTC for their actions."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This company is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me and extorting in the name of Toyota company they say that I owe them and for me that deals with scam they are sending me aggressive letters and bulgars when they call me I need them to stop harassing me"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A business was created under my name without my consent or permission, I have asked several times for the debt collector to remove my number. They called yet again today and when I told them it was not my debt they became rude and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A company calling themselves SUMMIT RECEIVEABLES will NOT stop calling and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me or my XXXX year old parents. They use threatening language and say I owe them money when I do not."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Harassment"
+            },
+            {
+              "text": ", Trying to collect more than owed, Failing to send written notice of debt, Failing to verify disputed debts, Ignoring Cease Communication Requests."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I keep getting letters from XXXX XXXX XXXX for debts that ARE NOT mine. How do I get them to stop "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me?"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Tower Loan is calling obsessively. They are even showing up at our house, even after we talk to them and make payment arrangements. They are "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " my husband and I every day."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Sequium Asset Solutions , LLC has "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " me by phone, mail and continued after XXXX advised them that I did not owe XXXX any money.XXXX XXXX of XXXX @ XXXX has advised them ( see attached ) and they continue to write and harass me."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This account is very old and past statue of limitations. It was opened in  XXXX / XXXX / XXXX  and closed in  XXXX / XXXX / XXXX . I am being "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " about this debt stating they are going to put a judgement on me and also wage garnishments."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Loanme is using a debt collector called XXXX XXXX. They are "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " my wife, parents, and work with phone calls."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Continued harassment"
+            },
+            {
+              "text": " by computer calls from Portfolio Recovery."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Missed a payment on care credit card, they have emailed, texted, and call at least 3x a day, and leave at least one voice mail a day. "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "This is harassment"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Harrasing phone calls from XXXX for a student loan I do not have. I have been out of school for approx. 30 years. I notified company to cease & desist. Company has ignored my wishes. Please contact company to stop unwanted calls and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I live I California and I was called at XXXX 5x back to back as well he threaten to sue me and kept "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "They call me at all times of the day and night. They even call me at my work place "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me. Telling me different things and not telling who they are."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I made a timely payment on a student loan, and AES threatened that the payment was past due. I received confirmation from AES that the payment was timely. I want my timely payment acknowledged. I want AES to stop "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me. I want an apology."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "First Recovery ( XXXX ) has been "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing"
+            },
+            {
+              "text": " me and my family, friends and calling me at work for a payday loan from 2012 ( file  XXXX ). This debt never happened that I recall."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XX/XX/19 - Received call from XXXX. Mr. XXXX attempted to collect debt that was paid last year. Was "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "extremely harassing"
+            },
+            {
+              "text": " and could not provide specific details. Continues to call."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "i have been "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " by this company for years, i told them i was never there"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Daily "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing phone calls"
+            },
+            {
+              "text": ". I did call to complain to Pioneer Credit Recovery an they wanted to verify personal information which I refused to give. I have no outstanding debts and do not know why this company continues to harass me."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am being "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " by getting repeated calls everyday. \\nThey are also calling me from an anonymous number repeatedly. \\nI am even receiving phone calls from them at XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "need help with my XXXX XXXX / Navient loans please help constant "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassing me"
+            },
+            {
+              "text": " company will not give me balance."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company hires XXXX XXXX and they "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " me and threatened me and told me that USA federal aid had them come after me that they work for them"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Kent hollins "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " me n called repeatedly every day even after being asked not to. Can provide call logs from XXXX XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have missed XXXX monthly payments and the company is calling me 10 times a day, starting XXXX until XXXX, 7 days a week. I feel that this is not legal and definitely "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bordering on harassment"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company has constantly and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " me about payment they were threatening me with arrest send me constant letters about payment but I never signed paperwork with this company"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am only within 10 days late of my auto loan and I have been "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " non-stop every day. I receive calls at least four times a day, every day. I will never accept an autoloan with them again"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Transworld Systems - XXXX XX/XX/2019 - XXXX XXXX  Called cell phone XX/XX/2019 - XXXX XXXX   Called cell phone Do not own a debt with anyone but continue to call. \\n\\nNeed to stop calling ( "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Harassment"
+            },
+            {
+              "text": " )"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have filed numerous complaints against this debt, statute of limitations is up on. This is not my debt and has also been closed. "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "This is HARASSMENT"
+            },
+            {
+              "text": "!!"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "THIS NUMBER IS "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "HARRSING ME AT WORK"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company called my main office line at work and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassed"
+            },
+            {
+              "text": " about making a payment on XX/XX/2019."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Experian is still reporting account that was over year ago reported as "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Unauthorized ID fraud"
+            },
+            {
+              "text": " from  XXXX   XXXX  this is still causing harm and must be corrected removed"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have an inquiry dated XX/XX/2017 from XXXX XXXX XXXX XXXX that I "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "did not authorize"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Wells Fargo Branch in   XXXX   XXXX   XXXX   XXXX   XXXX   XXXX , NC  XXXX  has misused my account by debiting an amount of {$2000.00} "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "without my authorization"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I AM A VICTIM OF ID THEFT DUE TO THE 2017 XXXX  "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "DATA BREACH"
+            },
+            {
+              "text": ". PLEASE REMOVE THE REMAINING ITEMS LISTED ON MY FTC REPORT FROM MY CONSUMER FILES."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I AM A VICTIM OF ID THEFT. MY INFORMATION WAS COMPROMISED DURING THE 2017 XXXX "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "DATA BREACH"
+            },
+            {
+              "text": ". I HAVE ENCLOSED DOCUMENTS TO ASSIST IN BLOCKING INFORMATION FROM BEING REPORTED ON MY CONSUMER REPORT"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX FOUND 7 "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "DATA BREACHES"
+            },
+            {
+              "text": " ON MY ACCOUNT!!! \\nHOW DOES THIS HAPPEN? \\nHOW DO I PROTECT MYSELF? Should I freeze everything for eternity?"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have check my credit and realize that my identity had been stolen and accounts had been opened without my knowledge, recent "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breaches"
+            },
+            {
+              "text": " has exposed my personal information, please block these items that do not belong to me, thank you."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I recently reviewed my credit profile and noticed "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "inaccuracies"
+            },
+            {
+              "text": " and false accusations and fraudulent accounts. Please note - The personal information listed below requires attention"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "ALL 3 CREDIT REPORTING AGENCIES CONTINUE TO REPORT FALSE "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "INCORRECT INFORMATIOM"
+            },
+            {
+              "text": " XXXX XXXX   XXXX XXXX..NEVER HAD ANY BANKRUPTCY"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have an account that shows derogatory on my credit when account was included in my bankruptcy ... I need this updated or the account removed please for "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "wrong information"
+            },
+            {
+              "text": " reporting thanks"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have a bankruptcy being reported   XXXX  2010  .  this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "information is not correct"
+            },
+            {
+              "text": ".   I confirmed that the bankruptcy court does not report to the credit bureau"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX is reporting "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "inaccurate information"
+            },
+            {
+              "text": " on my credit report. XXXX XXXX was included in our Bankruptcy and they are reporting a balance. This is in clear violation of the Bankruptcy Law Act. Docket - XXXX & Docket - XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "ALL 3 CREDIT REPORTING AGENCIES CONTINUE TO REPORT FALSE  "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "INCORRECT INFORMATIOM"
+            },
+            {
+              "text": " \" XXXX   '' XXXX..NEVER HAD ANY BANKRUPTCY"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Equifax & XXXX credit reporting "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "incorrect info"
+            },
+            {
+              "text": ". Claiming multiple Bank loans closed in Bankruptcy. Loans not closed and not in Bankruptcy. Multiple requests to remedy .... still not correct."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have a mixed file on my credit report Transunion is reporting I have a bankruptcy on my report this is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "incorrect information"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "CRA ... XXXX AND EXPERIAN ... REPORTING INCORRECT \" XXXX '' DATA INFOR AND NOT MY ACCOUNTS, NEVER HAD ANY PUBLIC RECORDS, REMOVE BANKRUPTCY FROM FILE, SAME DATA REPORTED 2X ON FILE, "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "OUTDATED INFORMATION"
+            },
+            {
+              "text": ", VIOLATES FCRA PROVISION 604,605,607,611 AND 623"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Erroneous information"
+            },
+            {
+              "text": " ( liens and bankruptcy ) being reported on all 3 of my credit reports."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "On XX/XX/2019, I sent a Method of verification request to transunion by certified mail for "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "inaccurate bankruptcy information"
+            },
+            {
+              "text": " on my credit report. I've received no response within the 15 business day grace period."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Transunionis"
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "reportinganinacurratelist"
+            },
+            {
+              "text": "ingofChapterXXXXBankruptcyonmyconsumercreditreport."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XX/XX/2018 Spoke with company and they told me they could not remove even if I "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "filed Bankruptcy"
+            },
+            {
+              "text": " - XXXX AZ chapter XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My loan matured on XXXX/XXXX/15 but Santander Consumer states I still owe XXXX. They will not provide documentation as to the amount after multiple requests. They are predators and now I am "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "filing bankruptcy"
+            },
+            {
+              "text": " chapter XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I reviewed my credit report and it is reflecting a Bankruptcy which is in error as I have "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "never filed for bankruptcy"
+            },
+            {
+              "text": ". The docket number reported is XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I received an email saying a new "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy was added"
+            },
+            {
+              "text": " to my TransUnion credit report the email was from today at XXXX I will also be contacting TransUnion about this error as I have only filed once in 2017."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "US Bankruptcy court has placed negative item on credit file. "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Bankruptcy"
+            },
+            {
+              "text": " was discharged in XX/XX/XXXX, not XX/XX/XXXX Bankruptcy has been re-aged."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Is about bsi financial service they dont do mortgage modificatin and iam loosing my house. I been here for 12 years also my friend XXXX had been leaving w me i "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "filed bankruptcy"
+            },
+            {
+              "text": " i been paying since XXXX but XXXX sold it to bsi finamcial"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy was added"
+            },
+            {
+              "text": " to my credit profile in XXXX of 2018 but never verified."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I receive over 60 calls per day at all hour from Discover Card collections. Even after being told I am "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "filing bankruptcy"
+            },
+            {
+              "text": ", they continue excessively. This has reached "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Collection agency was notified of bankruptcy and still continue to report account on credit report. under number XXXX. "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Notified bankruptcy"
+            },
+            {
+              "text": " under XXXX which is correct numbers"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "chapter XXXX "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " was place on my credit"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have never been convicted of any crime, anywhere. This information is incorrect and is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harming my reputation"
+            },
+            {
+              "text": ". This record is incorrect in it's entirety. The company that supplied this information is - XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "They reported an issue of Theft 2 which was dismissed due to being an untrue allegation by my ex. The company reported this as a conviction and it took weeks for them to correct, causing me to lose an employment oppertunity and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "damaged my reputation"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I checked my credit and saw two accounts for choice recovery for XXXX XXXX for {$51.00} each. I never received any notice of these small "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debts"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I got a little behind on bill. Just bought a house with my wife, and are dealing with "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". Will be paying in the next week."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Creditor PayPal, Inc repeatedly "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "attempting to collect a debt"
+            },
+            {
+              "text": " after Bankruptcy discharge."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "Debt"
+            },
+            {
+              "text": " has been paid and closed through XXXX. For some reason it has yet to be removed from CHexSystems"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Companies - XXXX, Experian & Transunion. These companies continue to list old "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debts"
+            },
+            {
+              "text": " of mine that should NO longer appear on my credit reports due to their age. \\n\\nThis has made my reports look much worse than they really are ..."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX XXXX- XXXX and XXXX will not remove this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " they have placed on my credit report. I never attended this college nor any college associated with them."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I was promised that after paying my "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ", that this collection would be taken off my credit report and it hasnt."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "They have discussed my "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " with another person. \\nThey have called in-laws. \\nThey have called my phone numerous times even after leaving messages. \\nThey call my phone after XXXX XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I do not have a signed contract with LVNV FUNDING LLC. I have never done business with this company. I am not liable for this collection from this debt with XXXX XXXX. I am not responsible for this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " with LVNV FUNDING LLC."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I lost my job and apartment and was no longer able to pay my "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " or receive mail."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Nothing. I just want this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " removed from my credit being that the car was repossessed and 8 months after you reported to my credit that the car was affected by natural disaster."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " collectors are calling back to back at least XXXX times a day"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The company keeps calling my phone looking for my husband. I don't owe the "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " and this is not his phone!"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX is reporting inaccurate "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ", they have no contract validating this debt they are also reporting a collection. Transunion is also reporting this inaccurate information."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have been taken to small claims court through the XXXX, without EVER being notified of the court proceedings or the "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " being requested. I do not even know what the debt is for, how much or when the debt is from."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " reporting on my credit for an account that is not mines. I have no knowledge to where this debt originated from nor have I authorized anyone else on my behalf. This debt does not belong to me"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "A company called NCC business services is reporting a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " which I know nothing about. I asked for validation of this debt but no response. I do n't owe these people anything."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I reached out to PORTFOLIO RECOVERY ASSOC XXXX/XXXX/16, requesting verification of a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". Today is XXXX XXXX, 2016 and I have yet to receive any verification."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Received a call from a woman named   XXXX   at D. Scott Carruthers Law claiming that I owe a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". Could not verify any information. Stated that I owed a debt that I 've never had with   XXXX   XXXX  . I have never had any such debt."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Attempts to collect a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " not owed."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XX/XX/2018, {$85.00}, I didnt know anything about this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". I honestly thought my insurance paid it. I tried to dispute it but since I am on my mothers insurance it didnt allow me to because it has her name on it."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "i recently pulled my credit report and discovered that this company has reported that I owe them a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". I never received a letter from them informing me that I owed them anything and rights were violated under the FDCPA"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have account that appear on my credit file I believe its "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My identity was used to to open a XXXX XXXX credit line. \\n\\nXXXX was notified it was "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            },
+            {
+              "text": " from the credit provider and it is still showing on my credit reports."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Their was "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            },
+            {
+              "text": " on my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card. Capital one has reimbursed the fraud charges, but hasnt reimbursed fee and interest."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "they are calling me after over 6 yrs has passed and claim to be sending a process server to my home because they are claiming I committed "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The inquiries are not related to any transactions made my me. I have never applied for these accounts. Please remove them as soon as possible because all of them are "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "They mishandled my information, which puts me and millions of other people at risk for "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": " and "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "fraud"
+            },
+            {
+              "text": ". I am listed as a potential victim according to their XXXX website, and would like a resolution."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX and XXXX I have never dealt with this company and have not had any lease accounts in my name. I have been in a totally different state. The information came from "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I had 2 lates on my XXXX XXXX dated back XX/XX/XXXX. I was a victim of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": " in which my accounts were compromised, as a result, I had to close them down. A police report was filed. \\n\\nXXXX refused to remove the lates of my credit report."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am one of the people affected by the recent Equifax hack. Equifax failed to protect my data. I have signed up for "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": " protection and am in the process of putting an alert on my credit reports."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Myself and millions of americans were victimised by the recent cyberattack on equifax. I am listed as a potential victim according to equifax 's XXXX. This exposes me and millions of americans to "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Trans union investigated my identity theft by removing the fraudulent account but then charged me with opening and closing the account by knocking my credit score down by 60 points when I re-explained to them that it was "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "identity theft"
+            },
+            {
+              "text": " in the first place."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "the original creditor stream elc account was and is part of a chapter XXXX "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " they have sold the account to another Leander for the 3rd time XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "bankruptcy XXXX "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " XXXX i supplied them with letter of dispute and reason and they refuse to update my account in a timely manner."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Car was repossession was sold by XXXX XXXX.But they are trying to collect the total amount we owned before they got it.Also we file "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " which has this amount they are still trying to collect by putting a lean on our property."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "We filed for bankruptcy back in 2010, years later we won a court settlement and paid off our bankruptcy through the court settlement. the "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " still shows open on our account."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I applied for "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " and filled but as I filled I paid off all things before submitting and they still said I went through bankruptcy."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Lexis Nexis has a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " on my credit never file"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "charged off in "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " ; no longer obligated to this debt"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "There is a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "bankruptcy"
+            },
+            {
+              "text": " being reported on my credit report by XXXX XXXX and Experian that does not belong to me."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My information was given out by equifax during their "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": ". My information is now out there forever and could potentially harm me years down the road.\\nI 've signed up by their monitoring for free for 1 year ( 1 year is not enough ). - X/X/2017"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Equifax "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": " likely to have affected me."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Equifax held my financial data without my consent. They now say it was taken in the recent massive "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Equifax was negligent in safeguarding my personal information opening the doors to the potential of lifelong identity theft. They also did not notify me in a timely manner when the "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": " was discovered."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX  and capita one "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": " caused the violations - XXXX XXXX XXXX XXXX md XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 6 different name on credit 3 different address"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am affected by the Equifax "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": ". They were aware of the problem for more than 6 weeks before disclosing the issue, opening me up to the potential for identity theft and other financial  damages."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": " showing inaccurate information not know to me best of my knowledge ftc, hippa and fcra violations"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Equifax 's poor security measures resulted in a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": " which they have indicated included my personal information. I 'm now at high risk for identity theft because of their negligence."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX and XXXX caused some inaccurate information on crredit report that made a lender call me collecting a debt b/c of the "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": " lending club corp XXXX XXXX XXXX XXXX XXXX XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX has a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": " and tried to reach to you and your company and previous submit but your facility closed it. Enclosed paperwork"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My credit information and reports have been compromised by virtue of the Equifax "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": ". I would like the option of freezing and thawing my credit availability through all three credit report agencies, but I do not want to be charged for doing so."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "In XXXX there was a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": " and ever since then Ive had nothing but issues in trying to repair my credit all I ask is for a clean slate ... multiple unknown inquiries and acounts"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I am undergoing XXXX XXXX. I told the lady. She demands answers while I have a needle stuck in me. I have XXXX XXXX. I have called to mediate but now I need the "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": " to stop now. My life doesnt need to take abuse"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Portfolio Recovery Associates LLC has been engaging in "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": " tactics, attempting top collect on a debt for which they were told was due to identity fraud. Every week they send letters and call my work number."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Hunter Warfield calls almost daily in attempt to collect information from me on a relative. They have no right to try to use me as a source of information and such calls are simply "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Wells Fargo harasses me via at work and at home multiple times a day, they have been told to stop calling, I make my mortgage payment every month, some times a few days late, but the relentless "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": " is too much."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Calls every day, once every hour, to my workplace without leaving messages. I had to do reverse lookup.   This "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": " could get me fired.   My debts are being handled by a debt resolution service and I provided that contact information to all debtors."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have contacted the company by phone, takes to the supervisor and asked them to stop calling me, and told her the company is constantly calling me and I consider it "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I sent small dividend checks largest one is XXXX dollars to deposit to "
+            },
+            {
+              "entity": "bank",
+              "slot_name": "bank",
+              "text": "JPMorgan Chase"
+            },
+            {
+              "text": " bank XXXX NY XXXX by registered mails 3 times this year. They were never deposited. The checks were never returned. Still did not get answer from the bank."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX Bank Information - Preauthorized Checks - "
+            },
+            {
+              "entity": "bank",
+              "slot_name": "bank",
+              "text": "JPMorgan Chase"
+            },
+            {
+              "text": ", {$81.00}. This information has not been provided to the CFPB, shows actual copies of payments."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Ive paid my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card bills. Half the time I cant even login to my own "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card account. Now, my cards usually wont work anywhere. Its illegal and stupid."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I had an account ( "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card ) with your company since XX/XX/2014 which it was charged-off, this account was under the management of XXXX XXXX XXXX, they affirm that this account has been paid off according to the settlement."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "On about XXXX, XXXX closed my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card account without my permission and it does not refund me annual fees. I just opened this card account for only three months and rarely use its benefits."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "capital one "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card closed 7 accounts for no reason. now they will not allow us to use our accumulated points to purchase a new XXXX XXXX product."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Netspend completely lock me out of my prepaid card account. I have had a few deposits and refunds sent to the card not knowing I could be revoked access to my prepaid card account and any deposits that where sent to the "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "debit"
+            },
+            {
+              "text": " card also."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The tactics used by wells Fargo bank by placing holds on checks that freezes me from using my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "debit"
+            },
+            {
+              "text": " card and has mine account in over draft status. I have been with them for XXXX years and these are not standard banking policies. Thank you."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I received a phone call saying if I did n't give her my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "debit"
+            },
+            {
+              "text": " card number and a payment plan there would be a warrant out for my arrest. She was threatening and very rude. Would not try to work with me on payment arrangements."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "debit"
+            },
+            {
+              "text": " card has been hit for 2 months service with Experian in spite of the fact that I cancelled 2-3 months ago. Cant get anyone on the phone to help resolve this matter after hours on hold and they wont respond to emails."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "See complaints XXXX and XXXX. Company 's response did not resolve my issue - Navy Federal refuses to credit my account for the stolen "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "debit"
+            },
+            {
+              "text": " card 's unauthorized transactions."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My payment to pay down "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card balance was not processed despite the transfer being cleared by the financial institution the transfer originated from."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Company closed my XXXX "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card account without warning, and I lost access to all statements online, which made it very difficult for me to dispute fees that BoFa charged on that credit card."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "wells fargo bank   where i bank resuses to aprove my crdit card application    for no reason what soever and continue to deny my application for "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card and need help  with this issue thank you XXXX XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "It's not my account. i never had this "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card, never applied for it!"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "They keep calling me about somebody else 's debt. Not even my "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". I blocked one number they called me on another number."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My information was compromised in the recently disclosed "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "data breach"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Did not receive notification of "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". I was unaware of balance being forward to me she to insurance being applied. This item is affecting my credit."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Getting phone calls for "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " I do not owe."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The company who is calling me on an old "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " called and discussed the matter with my XXXX year old daughter and my employer. They also advised me they are trying to have me fired."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "This is not my "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX called me claiming to own title to my "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " to a XXXX account that is no longer in now Wells Fargo 's system. used current personal information to contact me and threatened to hurt my credit as well as put me in XXXX."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "There is an error on my credit report from  XXXX   XXXX    XXXX   XXXX  . The "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card paid full but on the credit report it is showing unpaid. I contacted with the bank and they provide me confirmation number  XXXX"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Servicer, Bank Of America, forged documents to foreclose on "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " was  discharged  in banktcruptcy, and the bond holders have not suffered any loss."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Mountainland Collections is reporting an attempting to collect a "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " for which I do not know of or owe. The original creditor is some law firm and they do not answer the phone ever. They have horrible reviews online and this debt is old."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Did not receive a 30 day notice to dispute "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have been attempting to resolve this issue for the past couple of months. My wallet went missing sometime last year and ever since then i have been getting inquiries placed on my credit report."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX XXXX XXXX agreed to settle "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " for {$550.00} it was paid in full they said pendrick pick the debt up which was settled and still reported it as if i owed r them a some of something"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I did not recieve any written or verbal notification of this "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": ". Have called to resolve, both the debt collector, and utility company it stemmed from. Both could not help me either verify/or pay this debt."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I enrolled in Capital Ones so called secured "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card and the system denied me and sent some link to view a letter as to \" why ''. The link is broken and does not work, they also did a hard pull on my credit report and I received no benefit from it."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Comenity Bank owns the Victoria Secret credit card. They closed my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card and there is a credit balance of $XXXX. I spoke to manager XXXX on XX/XX/XXXX at XXXX; he told me I will receive it by end of XX/XX/XXXX. I still have not received a refund."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "XXXX Transunion, and XXXX  are continuing to report an outdated "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "debt"
+            },
+            {
+              "text": " with XXXX XXXX/XXXX XXXXXXXX. A consumer reporting agency may not report outdated negative information. This debt is from 2005, which is well beyond the 7 year mark."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "The credit bureau is reporting paying my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card balance down as a negative when I 'm trying to raise my credit score this company is reporting it as a negative and my score has decreased instead of increasing."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Every month I pay my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " cards off before it 's time for the company to report to the credit agencies, and for the past three months my capital one "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card has not updated, which is drastically hurting my fico score."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "My name is XXXX XXXX XXXX. The balance reflecting on my XXXX XXXX "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "Credit"
+            },
+            {
+              "text": " Card Account XXXX is not accurate and does not reflect the recent update. Please update account to reflect accurate balance. I have attached supporting documents for this claim."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I have tried numerous times to het ahold of regions bank to explain that my "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card was stolen bit they refused to help me in any way then i found out that they finally closed the account but with a very high balance. I want this all fixed."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Hello, I previously had a "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card through XXXX XXXX department store that went to collections with XXXX XXXX. I paid this debt in two/three installments with XXXX in XXXX, but this collections debt still shows on my credit report."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I did not apply for this Syncb/bp Dc "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card. Can you help me with this problem?"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Wells Fargo secured "
+            },
+            {
+              "entity": "card",
+              "slot_name": "card",
+              "text": "credit"
+            },
+            {
+              "text": " card account - XXXX I was always pay on time, then fraudulent activity appeared and I discuss that with Wells Fargo but it was ignored and never resolved."
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Calling me constantly all day. Some days 6-9 times a day. If feel this is "
+            },
+            {
+              "entity": "complaint-cause",
+              "slot_name": "complaint-cause",
+              "text": "harassment"
+            },
+            {
+              "text": " due to all the phone calls"
+            }
+          ]
+        }
+      ]
+    },
+    "setTemperature": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Set the temperature to "
+            },
+            {
+              "entity": "snips/temperature",
+              "slot_name": "roomTemperature",
+              "text": "19 degrees"
+            },
+            {
+              "text": " in the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "bedroom"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "please set the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "living room"
+            },
+            {
+              "text": "'s temperature to "
+            },
+            {
+              "entity": "snips/temperature",
+              "slot_name": "roomTemperature",
+              "text": "twenty two degrees celsius"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "I want "
+            },
+            {
+              "entity": "snips/temperature",
+              "slot_name": "roomTemperature",
+              "text": "75 degrees fahrenheit"
+            },
+            {
+              "text": " in the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "bathroom"
+            },
+            {
+              "text": " please"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Can you increase the temperature to "
+            },
+            {
+              "entity": "snips/temperature",
+              "slot_name": "roomTemperature",
+              "text": "22 degrees"
+            },
+            {
+              "text": " ?"
+            }
+          ]
+        }
+      ]
+    },
+    "turnLightOff": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Turn off the lights in the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "entrance"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "turn the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "bathroom"
+            },
+            {
+              "text": "'s light out please"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "switch off the light the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "kitchen"
+            },
+            {
+              "text": ", will you?"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Switch the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "bedroom"
+            },
+            {
+              "text": "'s lights off please"
+            }
+          ]
+        }
+      ]
+    },
+    "turnLightOn": {
+      "utterances": [
+        {
+          "data": [
+            {
+              "text": "Turn on the lights in the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "kitchen"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "give me some light in the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "bathroom"
+            },
+            {
+              "text": " please"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "Can you light up the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "living room"
+            },
+            {
+              "text": " ?"
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "text": "switch the "
+            },
+            {
+              "entity": "room",
+              "slot_name": "room",
+              "text": "bedroom"
+            },
+            {
+              "text": "'s lights on please"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "language": "en"
+}

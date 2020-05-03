@@ -1,0 +1,71 @@
+2020-02-18 09:10:16,800 - INFO - Dataset loaded with 100.59 hours. Filtered 0.00 hours.
+2020-02-18 09:10:17,516 - INFO - Dataset loaded with 5.39 hours. Filtered 0.00 hours.
+2020-02-18 09:10:17,530 - INFO - PADDING: 16
+2020-02-18 09:10:31,471 - WARNING - Data Layer does not have any weights to return. This get_weights call returns None.
+2020-02-18 09:10:31,474 - INFO - Starting .....
+2020-02-18 09:10:31,476 - INFO - Found 2 modules with weights:
+2020-02-18 09:10:31,476 - INFO - JasperEncoder
+2020-02-18 09:10:31,477 - INFO - JasperDecoderForCTC
+2020-02-18 09:10:31,477 - INFO - Total model parameters: 5045597
+2020-02-18 09:10:31,478 - INFO - Restoring checkpoint from folder ./ ...
+2020-02-18 09:10:31,480 - WARNING - For module JasperDecoderForCTC, no file matches  in ./
+2020-02-18 09:10:31,481 - WARNING - Checkpoint folder ./ present but did not restore
+2020-02-18 09:10:31,482 - INFO - Starting epoch 0
+2020-02-18 09:15:57,082 - INFO - Dataset loaded with 100.59 hours. Filtered 0.00 hours.
+2020-02-18 09:15:57,797 - INFO - Dataset loaded with 5.39 hours. Filtered 0.00 hours.
+2020-02-18 09:15:57,813 - INFO - PADDING: 16
+2020-02-18 09:21:58,618 - INFO - Dataset loaded with 100.59 hours. Filtered 0.00 hours.
+2020-02-18 09:21:59,355 - INFO - Dataset loaded with 5.39 hours. Filtered 0.00 hours.
+2020-02-18 09:21:59,370 - INFO - PADDING: 16
+2020-02-18 09:22:09,388 - WARNING - Data Layer does not have any weights to return. This get_weights call returns None.
+2020-02-18 09:22:09,390 - INFO - Starting .....
+2020-02-18 09:22:09,392 - INFO - Found 2 modules with weights:
+2020-02-18 09:22:09,393 - INFO - JasperEncoder
+2020-02-18 09:22:09,393 - INFO - JasperDecoderForCTC
+2020-02-18 09:22:09,394 - INFO - Total model parameters: 5045597
+2020-02-18 09:22:09,395 - INFO - Restoring checkpoint from folder ./ ...
+2020-02-18 09:22:09,397 - WARNING - For module JasperDecoderForCTC, no file matches  in ./
+2020-02-18 09:22:09,398 - WARNING - Checkpoint folder ./ present but did not restore
+2020-02-18 09:22:09,398 - INFO - Starting epoch 0
+2020-02-18 10:12:24,099 - INFO - Dataset loaded with 100.59 hours. Filtered 0.00 hours.
+2020-02-18 10:12:24,820 - INFO - Dataset loaded with 5.39 hours. Filtered 0.00 hours.
+2020-02-18 10:12:24,835 - INFO - PADDING: 16
+2020-02-18 10:12:59,507 - WARNING - Data Layer does not have any weights to return. This get_weights call returns None.
+2020-02-18 10:12:59,510 - INFO - Starting .....
+2020-02-18 10:12:59,512 - INFO - Found 2 modules with weights:
+2020-02-18 10:12:59,512 - INFO - JasperDecoderForCTC
+2020-02-18 10:12:59,513 - INFO - JasperEncoder
+2020-02-18 10:12:59,513 - INFO - Total model parameters: 5045597
+2020-02-18 10:12:59,514 - INFO - Restoring checkpoint from folder ./ ...
+2020-02-18 10:12:59,516 - WARNING - For module JasperDecoderForCTC, no file matches  in ./
+2020-02-18 10:12:59,516 - WARNING - Checkpoint folder ./ present but did not restore
+2020-02-18 10:12:59,517 - INFO - Starting epoch 0
+2020-02-18 11:01:59,520 - INFO - Dataset loaded with 100.59 hours. Filtered 0.00 hours.
+2020-02-18 11:02:00,283 - INFO - Dataset loaded with 5.39 hours. Filtered 0.00 hours.
+2020-02-18 11:02:00,299 - INFO - PADDING: 16
+2020-02-18 11:03:10,118 - WARNING - Data Layer does not have any weights to return. This get_weights call returns None.
+2020-02-18 11:03:10,121 - INFO - Starting .....
+2020-02-18 11:03:10,123 - INFO - Found 2 modules with weights:
+2020-02-18 11:03:10,123 - INFO - JasperEncoder
+2020-02-18 11:03:10,124 - INFO - JasperDecoderForCTC
+2020-02-18 11:03:10,124 - INFO - Total model parameters: 5045597
+2020-02-18 11:03:10,125 - INFO - Restoring checkpoint from folder ./ ...
+2020-02-18 11:03:10,127 - WARNING - For module JasperEncoder, no file matches  in ./
+2020-02-18 11:03:10,127 - WARNING - Checkpoint folder ./ present but did not restore
+2020-02-18 11:03:10,128 - INFO - Starting epoch 0
+2020-02-18 11:27:44,752 - INFO - Dataset loaded with 100.59 hours. Filtered 0.00 hours.
+2020-02-18 11:27:45,463 - INFO - Dataset loaded with 5.39 hours. Filtered 0.00 hours.
+2020-02-18 11:27:45,477 - INFO - PADDING: 16
+2020-02-18 11:28:32,165 - INFO - Dataset loaded with 100.59 hours. Filtered 0.00 hours.
+2020-02-18 11:28:32,907 - INFO - Dataset loaded with 5.39 hours. Filtered 0.00 hours.
+2020-02-18 11:28:32,924 - INFO - PADDING: 16
+2020-02-18 11:28:51,182 - WARNING - Data Layer does not have any weights to return. This get_weights call returns None.
+2020-02-18 11:28:51,187 - INFO - Starting .....
+2020-02-18 11:28:51,192 - INFO - Found 2 modules with weights:
+2020-02-18 11:28:51,194 - INFO - JasperEncoder
+2020-02-18 11:28:51,194 - INFO - JasperDecoderForCTC
+2020-02-18 11:28:51,195 - INFO - Total model parameters: 18924381
+2020-02-18 11:28:51,195 - INFO - Restoring checkpoint from folder ./ ...
+2020-02-18 11:28:51,335 - WARNING - For module trainer, no file matches  in ./
+2020-02-18 11:28:51,336 - WARNING - Trainer state wasn't restored
+2020-02-18 11:28:51,337 - INFO - Starting epoch 0

@@ -1,0 +1,983 @@
+2020-02-11 04:50:30,542 - INFO - Dataset loaded with 0.71 hours. Filtered 0.00 hours.
+2020-02-11 04:50:30,573 - INFO - Dataset loaded with 0.10 hours. Filtered 0.00 hours.
+2020-02-11 04:50:30,585 - INFO - PADDING: 16
+2020-02-11 04:50:30,585 - INFO - STFT using conv
+2020-02-11 04:51:08,329 - WARNING - Data Layer does not have any weights to return. This get_weights call returns None.
+2020-02-11 04:51:08,332 - INFO - Starting .....
+2020-02-11 04:51:08,333 - INFO - Found 2 modules with weights:
+2020-02-11 04:51:08,334 - INFO - JasperEncoder
+2020-02-11 04:51:08,334 - INFO - JasperDecoderForCTC
+2020-02-11 04:51:08,334 - INFO - Total model parameters: 5771293
+2020-02-11 04:51:08,335 - INFO - Restoring checkpoint from folder ./an4_checkpoints ...
+2020-02-11 04:51:08,337 - WARNING - For module JasperDecoderForCTC, no file matches  in ./an4_checkpoints
+2020-02-11 04:51:08,337 - WARNING - Checkpoint folder ./an4_checkpoints present but did not restore
+2020-02-11 04:51:08,338 - INFO - Starting epoch 0
+2020-02-11 04:51:20,816 - INFO - Step: 0
+2020-02-11 04:51:20,835 - INFO - Loss: 780.207763671875
+2020-02-11 04:51:20,836 - INFO - training_batch_WER:  124.59%
+2020-02-11 04:51:20,836 - INFO - Prediction: vowjsvxvxbwctf'cxjcqxocoxwrspytptorepyqsvxivf rsc ai qvtywrerpxerkspvpwpfrfof fpfscsciyxitwmrslsdwpwtwopyeyqewyococxtjrl pyd hypypyewepypfydhyqfzbvrposfsosypsoswhywywcvhgvxvwxevwhwpyero hehvpsvqlqzstqseststprtboxjypywywcrajswlwfscptypsvavfsqscsjcwtycvwbtxty'wmwyhrcsdrwxsfrqh pjhrpraw wdvswvhyhgfv'vivcxz czrbcsc wpwrtvyttwhpxpctyrqjcylswyp ereascscpwjbjijcsjtwo
+2020-02-11 04:51:20,837 - INFO - Reference: h a s t i n g s
+2020-02-11 04:51:20,838 - INFO - Step time: 11.900994062423706 seconds
+2020-02-11 04:51:20,838 - INFO - Doing Evaluation ..............................
+2020-02-11 04:51:22,327 - INFO - ==========>>>>>>Evaluation Loss: 797.5174560546875
+2020-02-11 04:51:22,329 - INFO - ==========>>>>>>Evaluation WER:  100.65%
+2020-02-11 04:51:22,332 - INFO - Evaluation time: 1.492868185043335 seconds
+2020-02-11 04:51:37,489 - INFO - Step: 25
+2020-02-11 04:51:37,494 - INFO - Loss: 52.575523376464844
+2020-02-11 04:51:37,495 - INFO - training_batch_WER:  96.91%
+2020-02-11 04:51:37,495 - INFO - Prediction: n
+2020-02-11 04:51:37,496 - INFO - Reference: rubout j l y z two
+2020-02-11 04:51:37,498 - INFO - Step time: 0.40380048751831055 seconds
+2020-02-11 04:51:39,724 - INFO - Finished epoch 0 in 31.38523244857788
+2020-02-11 04:51:39,724 - INFO - Starting epoch 1
+2020-02-11 04:51:47,958 - INFO - Step: 50
+2020-02-11 04:51:47,964 - INFO - Loss: 47.7017936706543
+2020-02-11 04:51:47,964 - INFO - training_batch_WER:  100.00%
+2020-02-11 04:51:47,965 - INFO - Prediction:  
+2020-02-11 04:51:47,966 - INFO - Reference: enter sixty
+2020-02-11 04:51:47,967 - INFO - Step time: 0.39517927169799805 seconds
+2020-02-11 04:51:51,306 - INFO - Finished epoch 1 in 11.580843925476074
+2020-02-11 04:51:51,307 - INFO - Starting epoch 2
+2020-02-11 04:51:57,628 - INFO - Step: 75
+2020-02-11 04:51:57,633 - INFO - Loss: 59.7199821472168
+2020-02-11 04:51:57,633 - INFO - training_batch_WER:  100.00%
+2020-02-11 04:51:57,634 - INFO - Prediction:  
+2020-02-11 04:51:57,635 - INFO - Reference: july thirtieth nineteen sixty five
+2020-02-11 04:51:57,636 - INFO - Step time: 0.33699536323547363 seconds
+2020-02-11 04:52:02,932 - INFO - Finished epoch 2 in 11.624194383621216
+2020-02-11 04:52:02,932 - INFO - Starting epoch 3
+2020-02-11 04:52:07,147 - INFO - Step: 100
+2020-02-11 04:52:07,151 - INFO - Loss: 53.99016571044922
+2020-02-11 04:52:07,152 - INFO - training_batch_WER:  100.00%
+2020-02-11 04:52:07,152 - INFO - Prediction:  e
+2020-02-11 04:52:07,153 - INFO - Reference: enter seven thirty eight
+2020-02-11 04:52:07,154 - INFO - Step time: 0.32913970947265625 seconds
+2020-02-11 04:52:14,144 - INFO - Finished epoch 3 in 11.21086859703064
+2020-02-11 04:52:14,145 - INFO - Starting epoch 4
+2020-02-11 04:52:16,470 - INFO - Step: 125
+2020-02-11 04:52:16,475 - INFO - Loss: 41.30018997192383
+2020-02-11 04:52:16,476 - INFO - training_batch_WER:  99.49%
+2020-02-11 04:52:16,476 - INFO - Prediction:  
+2020-02-11 04:52:16,477 - INFO - Reference: k e a n e
+2020-02-11 04:52:16,479 - INFO - Step time: 0.37256789207458496 seconds
+2020-02-11 04:52:25,191 - INFO - Finished epoch 4 in 11.045993328094482
+2020-02-11 04:52:25,192 - INFO - Starting epoch 5
+2020-02-11 04:52:25,623 - INFO - Step: 150
+2020-02-11 04:52:25,629 - INFO - Loss: 40.73735427856445
+2020-02-11 04:52:25,629 - INFO - training_batch_WER:  96.89%
+2020-02-11 04:52:25,630 - INFO - Prediction:  t  e
+2020-02-11 04:52:25,630 - INFO - Reference: october twenty third nineteen sixty seven
+2020-02-11 04:52:25,632 - INFO - Step time: 0.4133949279785156 seconds
+2020-02-11 04:52:35,264 - INFO - Step: 175
+2020-02-11 04:52:35,269 - INFO - Loss: 27.9339599609375
+2020-02-11 04:52:35,270 - INFO - training_batch_WER:  90.53%
+2020-02-11 04:52:35,271 - INFO - Prediction:  t hrnetn sit n
+2020-02-11 04:52:35,271 - INFO - Reference: april thirtieth nineteen sixty nine
+2020-02-11 04:52:35,272 - INFO - Step time: 0.3756520748138428 seconds
+2020-02-11 04:52:36,680 - INFO - Finished epoch 5 in 11.487829685211182
+2020-02-11 04:52:36,681 - INFO - Starting epoch 6
+2020-02-11 04:52:44,755 - INFO - Step: 200
+2020-02-11 04:52:44,761 - INFO - Loss: 23.30778694152832
+2020-02-11 04:52:44,762 - INFO - training_batch_WER:  72.51%
+2020-02-11 04:52:44,763 - INFO - Prediction:   d eht sevn r
+2020-02-11 04:52:44,763 - INFO - Reference: j v p e eight seven zero
+2020-02-11 04:52:44,764 - INFO - Step time: 0.4198763370513916 seconds
+2020-02-11 04:52:48,006 - INFO - Finished epoch 6 in 11.324799537658691
+2020-02-11 04:52:48,007 - INFO - Starting epoch 7
+2020-02-11 04:52:53,893 - INFO - Step: 225
+2020-02-11 04:52:53,899 - INFO - Loss: 13.45220947265625
+2020-02-11 04:52:53,900 - INFO - training_batch_WER:  54.59%
+2020-02-11 04:52:53,900 - INFO - Prediction: p  n b r a n t c
+2020-02-11 04:52:53,901 - INFO - Reference: p o m e r a n t z
+2020-02-11 04:52:53,902 - INFO - Step time: 0.3733797073364258 seconds
+2020-02-11 04:52:58,980 - INFO - Finished epoch 7 in 10.972515106201172
+2020-02-11 04:52:58,981 - INFO - Starting epoch 8
+2020-02-11 04:53:02,849 - INFO - Step: 250
+2020-02-11 04:53:02,856 - INFO - Loss: 13.79973030090332
+2020-02-11 04:53:02,856 - INFO - training_batch_WER:  54.17%
+2020-02-11 04:53:02,857 - INFO - Prediction: eh ol b a r te
+2020-02-11 04:53:02,858 - INFO - Reference: h o b a r t
+2020-02-11 04:53:02,860 - INFO - Step time: 0.41658663749694824 seconds
+2020-02-11 04:53:10,103 - INFO - Finished epoch 8 in 11.120704174041748
+2020-02-11 04:53:10,103 - INFO - Starting epoch 9
+2020-02-11 04:53:12,375 - INFO - Step: 275
+2020-02-11 04:53:12,381 - INFO - Loss: 9.48405647277832
+2020-02-11 04:53:12,381 - INFO - training_batch_WER:  35.75%
+2020-02-11 04:53:12,382 - INFO - Prediction: enter four
+2020-02-11 04:53:12,383 - INFO - Reference: enter four
+2020-02-11 04:53:12,384 - INFO - Step time: 0.446854829788208 seconds
+2020-02-11 04:53:21,449 - INFO - Finished epoch 9 in 11.3449068069458
+2020-02-11 04:53:21,450 - INFO - Starting epoch 10
+2020-02-11 04:53:21,753 - INFO - Step: 300
+2020-02-11 04:53:21,759 - INFO - Loss: 12.582039833068848
+2020-02-11 04:53:21,760 - INFO - training_batch_WER:  39.02%
+2020-02-11 04:53:21,760 - INFO - Prediction: enter nine eight nine
+2020-02-11 04:53:21,761 - INFO - Reference: enter nine eight nine
+2020-02-11 04:53:21,762 - INFO - Step time: 0.293562650680542 seconds
+2020-02-11 04:53:31,034 - INFO - Step: 325
+2020-02-11 04:53:31,040 - INFO - Loss: 7.580256462097168
+2020-02-11 04:53:31,041 - INFO - training_batch_WER:  31.40%
+2020-02-11 04:53:31,042 - INFO - Prediction: enter ninty four
+2020-02-11 04:53:31,044 - INFO - Reference: enter ninety four
+2020-02-11 04:53:31,046 - INFO - Step time: 0.3436458110809326 seconds
+2020-02-11 04:53:32,423 - INFO - Finished epoch 10 in 10.972359418869019
+2020-02-11 04:53:32,424 - INFO - Starting epoch 11
+2020-02-11 04:53:40,185 - INFO - Step: 350
+2020-02-11 04:53:40,190 - INFO - Loss: 5.643584251403809
+2020-02-11 04:53:40,191 - INFO - training_batch_WER:  24.71%
+2020-02-11 04:53:40,192 - INFO - Prediction: nterfive
+2020-02-11 04:53:40,193 - INFO - Reference: enter five
+2020-02-11 04:53:40,194 - INFO - Step time: 0.33216285705566406 seconds
+2020-02-11 04:53:43,641 - INFO - Finished epoch 11 in 11.216542720794678
+2020-02-11 04:53:43,641 - INFO - Starting epoch 12
+2020-02-11 04:53:49,652 - INFO - Step: 375
+2020-02-11 04:53:49,657 - INFO - Loss: 6.207358360290527
+2020-02-11 04:53:49,658 - INFO - training_batch_WER:  29.61%
+2020-02-11 04:53:49,659 - INFO - Prediction: v e r o m a
+2020-02-11 04:53:49,659 - INFO - Reference: v e r o n a
+2020-02-11 04:53:49,661 - INFO - Step time: 0.3721437454223633 seconds
+2020-02-11 04:53:55,056 - INFO - Finished epoch 12 in 11.414129734039307
+2020-02-11 04:53:55,057 - INFO - Starting epoch 13
+2020-02-11 04:53:59,139 - INFO - Step: 400
+2020-02-11 04:53:59,146 - INFO - Loss: 5.810441017150879
+2020-02-11 04:53:59,146 - INFO - training_batch_WER:  18.14%
+2020-02-11 04:53:59,147 - INFO - Prediction:  nine thit sixty five
+2020-02-11 04:53:59,147 - INFO - Reference: nine thirty sixty five
+2020-02-11 04:53:59,148 - INFO - Step time: 0.33306884765625 seconds
+2020-02-11 04:54:06,096 - INFO - Finished epoch 13 in 11.038735389709473
+2020-02-11 04:54:06,097 - INFO - Starting epoch 14
+2020-02-11 04:54:08,502 - INFO - Step: 425
+2020-02-11 04:54:08,509 - INFO - Loss: 5.577755928039551
+2020-02-11 04:54:08,509 - INFO - training_batch_WER:  28.30%
+2020-02-11 04:54:08,510 - INFO - Prediction: yes
+2020-02-11 04:54:08,510 - INFO - Reference: yes
+2020-02-11 04:54:08,512 - INFO - Step time: 0.4014625549316406 seconds
+2020-02-11 04:54:17,219 - INFO - Finished epoch 14 in 11.121772289276123
+2020-02-11 04:54:17,220 - INFO - Starting epoch 15
+2020-02-11 04:54:17,602 - INFO - Step: 450
+2020-02-11 04:54:17,608 - INFO - Loss: 2.7928357124328613
+2020-02-11 04:54:17,609 - INFO - training_batch_WER:  9.60%
+2020-02-11 04:54:17,610 - INFO - Prediction:  p i t t s b u r g h
+2020-02-11 04:54:17,610 - INFO - Reference: p i t t s b u r g h
+2020-02-11 04:54:17,611 - INFO - Step time: 0.3744511604309082 seconds
+2020-02-11 04:54:26,981 - INFO - Step: 475
+2020-02-11 04:54:26,988 - INFO - Loss: 4.453714370727539
+2020-02-11 04:54:26,988 - INFO - training_batch_WER:  20.42%
+2020-02-11 04:54:26,989 - INFO - Prediction: rubout eh a  x n six seven nine one
+2020-02-11 04:54:26,989 - INFO - Reference: rubout h a x x n six seven nine one
+2020-02-11 04:54:26,991 - INFO - Step time: 0.3720989227294922 seconds
+2020-02-11 04:54:28,396 - INFO - Finished epoch 15 in 11.17576289176941
+2020-02-11 04:54:28,397 - INFO - Starting epoch 16
+2020-02-11 04:54:36,271 - INFO - Step: 500
+2020-02-11 04:54:36,278 - INFO - Loss: 4.585161209106445
+2020-02-11 04:54:36,278 - INFO - training_batch_WER:  15.34%
+2020-02-11 04:54:36,279 - INFO - Prediction: three fourteen sixty seven
+2020-02-11 04:54:36,279 - INFO - Reference: three fourteen sixty seven
+2020-02-11 04:54:36,281 - INFO - Step time: 0.4014463424682617 seconds
+2020-02-11 04:54:36,281 - INFO - Doing Evaluation ..............................
+2020-02-11 04:54:36,923 - INFO - ==========>>>>>>Evaluation Loss: 17.81238555908203
+2020-02-11 04:54:36,924 - INFO - ==========>>>>>>Evaluation WER:  39.59%
+2020-02-11 04:54:36,924 - INFO - Evaluation time: 0.6423304080963135 seconds
+2020-02-11 04:54:40,165 - INFO - Finished epoch 16 in 11.767932891845703
+2020-02-11 04:54:40,166 - INFO - Starting epoch 17
+2020-02-11 04:54:46,335 - INFO - Step: 525
+2020-02-11 04:54:46,343 - INFO - Loss: 2.6583619117736816
+2020-02-11 04:54:46,344 - INFO - training_batch_WER:  9.43%
+2020-02-11 04:54:46,344 - INFO - Prediction: j v p e eight sen zero
+2020-02-11 04:54:46,345 - INFO - Reference: j v p e eight seven zero
+2020-02-11 04:54:46,346 - INFO - Step time: 0.41817235946655273 seconds
+2020-02-11 04:54:51,421 - INFO - Finished epoch 17 in 11.253912448883057
+2020-02-11 04:54:51,421 - INFO - Starting epoch 18
+2020-02-11 04:54:55,672 - INFO - Step: 550
+2020-02-11 04:54:55,679 - INFO - Loss: 2.3551971912384033
+2020-02-11 04:54:55,680 - INFO - training_batch_WER:  11.22%
+2020-02-11 04:54:55,681 - INFO - Prediction: k e n
+2020-02-11 04:54:55,681 - INFO - Reference: k e n
+2020-02-11 04:54:55,682 - INFO - Step time: 0.3994927406311035 seconds
+2020-02-11 04:55:02,373 - INFO - Finished epoch 18 in 10.951561689376831
+2020-02-11 04:55:02,374 - INFO - Starting epoch 19
+2020-02-11 04:55:04,546 - INFO - Step: 575
+2020-02-11 04:55:04,553 - INFO - Loss: 2.5061933994293213
+2020-02-11 04:55:04,554 - INFO - training_batch_WER:  12.23%
+2020-02-11 04:55:04,554 - INFO - Prediction: six eight three three seven eight zero
+2020-02-11 04:55:04,555 - INFO - Reference: six eight three three seven eight zero
+2020-02-11 04:55:04,557 - INFO - Step time: 0.39333271980285645 seconds
+2020-02-11 04:55:13,803 - INFO - Finished epoch 19 in 11.428267240524292
+2020-02-11 04:55:13,803 - INFO - Starting epoch 20
+2020-02-11 04:55:14,134 - INFO - Step: 600
+2020-02-11 04:55:14,140 - INFO - Loss: 2.618478775024414
+2020-02-11 04:55:14,141 - INFO - training_batch_WER:  11.96%
+2020-02-11 04:55:14,142 - INFO - Prediction: enter sixty one
+2020-02-11 04:55:14,142 - INFO - Reference: enter sixty one
+2020-02-11 04:55:14,144 - INFO - Step time: 0.3211643695831299 seconds
+2020-02-11 04:55:23,518 - INFO - Step: 625
+2020-02-11 04:55:23,525 - INFO - Loss: 2.4715163707733154
+2020-02-11 04:55:23,526 - INFO - training_batch_WER:  9.79%
+2020-02-11 04:55:23,526 - INFO - Prediction: j e a n e t t e
+2020-02-11 04:55:23,527 - INFO - Reference: j e a n e t t e
+2020-02-11 04:55:23,528 - INFO - Step time: 0.41735363006591797 seconds
+2020-02-11 04:55:24,968 - INFO - Finished epoch 20 in 11.164700746536255
+2020-02-11 04:55:24,969 - INFO - Starting epoch 21
+2020-02-11 04:55:33,002 - INFO - Step: 650
+2020-02-11 04:55:33,008 - INFO - Loss: 2.3828651905059814
+2020-02-11 04:55:33,009 - INFO - training_batch_WER:  17.02%
+2020-02-11 04:55:33,009 - INFO - Prediction: stop
+2020-02-11 04:55:33,010 - INFO - Reference: stop
+2020-02-11 04:55:33,011 - INFO - Step time: 0.3769803047180176 seconds
+2020-02-11 04:55:36,302 - INFO - Finished epoch 21 in 11.332229852676392
+2020-02-11 04:55:36,303 - INFO - Starting epoch 22
+2020-02-11 04:55:42,246 - INFO - Step: 675
+2020-02-11 04:55:42,253 - INFO - Loss: 2.5132224559783936
+2020-02-11 04:55:42,254 - INFO - training_batch_WER:  9.05%
+2020-02-11 04:55:42,254 - INFO - Prediction: t v a h fifty two fifty three
+2020-02-11 04:55:42,255 - INFO - Reference: t v a h fifty two fifty three
+2020-02-11 04:55:42,256 - INFO - Step time: 0.41013026237487793 seconds
+2020-02-11 04:55:47,482 - INFO - Finished epoch 22 in 11.178375959396362
+2020-02-11 04:55:47,483 - INFO - Starting epoch 23
+2020-02-11 04:55:51,644 - INFO - Step: 700
+2020-02-11 04:55:51,649 - INFO - Loss: 0.9597862958908081
+2020-02-11 04:55:51,650 - INFO - training_batch_WER:  4.71%
+2020-02-11 04:55:51,650 - INFO - Prediction: rubout n a f k v thirty
+2020-02-11 04:55:51,651 - INFO - Reference: rubout n a f k v thirty
+2020-02-11 04:55:51,652 - INFO - Step time: 0.33219170570373535 seconds
+2020-02-11 04:55:58,681 - INFO - Finished epoch 23 in 11.197265625
+2020-02-11 04:55:58,681 - INFO - Starting epoch 24
+2020-02-11 04:56:01,025 - INFO - Step: 725
+2020-02-11 04:56:01,031 - INFO - Loss: 1.8340942859649658
+2020-02-11 04:56:01,032 - INFO - training_batch_WER:  12.57%
+2020-02-11 04:56:01,032 - INFO - Prediction: c a r r e l
+2020-02-11 04:56:01,033 - INFO - Reference: c a r r e l
+2020-02-11 04:56:01,034 - INFO - Step time: 0.4109034538269043 seconds
+2020-02-11 04:56:10,015 - INFO - Finished epoch 24 in 11.333118915557861
+2020-02-11 04:56:10,016 - INFO - Starting epoch 25
+2020-02-11 04:56:10,410 - INFO - Step: 750
+2020-02-11 04:56:10,416 - INFO - Loss: 1.7512563467025757
+2020-02-11 04:56:10,416 - INFO - training_batch_WER:  9.36%
+2020-02-11 04:56:10,417 - INFO - Prediction: one five two oh five
+2020-02-11 04:56:10,418 - INFO - Reference: one five two oh five
+2020-02-11 04:56:10,418 - INFO - Step time: 0.3834972381591797 seconds
+2020-02-11 04:56:19,941 - INFO - Step: 775
+2020-02-11 04:56:19,947 - INFO - Loss: 3.186936378479004
+2020-02-11 04:56:19,948 - INFO - training_batch_WER:  10.47%
+2020-02-11 04:56:19,948 - INFO - Prediction: k w z a g to hundedarnd sixty six
+2020-02-11 04:56:19,949 - INFO - Reference: k w z a g two hundred and sixty six
+2020-02-11 04:56:19,950 - INFO - Step time: 0.3982505798339844 seconds
+2020-02-11 04:56:21,333 - INFO - Finished epoch 25 in 11.316441535949707
+2020-02-11 04:56:21,334 - INFO - Starting epoch 26
+2020-02-11 04:56:29,163 - INFO - Step: 800
+2020-02-11 04:56:29,169 - INFO - Loss: 1.8374892473220825
+2020-02-11 04:56:29,170 - INFO - training_batch_WER:  9.01%
+2020-02-11 04:56:29,170 - INFO - Prediction: l r r k i four
+2020-02-11 04:56:29,171 - INFO - Reference: l r r k i four
+2020-02-11 04:56:29,172 - INFO - Step time: 0.3994882106781006 seconds
+2020-02-11 04:56:32,394 - INFO - Finished epoch 26 in 11.060336589813232
+2020-02-11 04:56:32,395 - INFO - Starting epoch 27
+2020-02-11 04:56:38,457 - INFO - Step: 825
+2020-02-11 04:56:38,462 - INFO - Loss: 1.3291157484054565
+2020-02-11 04:56:38,463 - INFO - training_batch_WER:  6.67%
+2020-02-11 04:56:38,463 - INFO - Prediction: f k a u two four
+2020-02-11 04:56:38,464 - INFO - Reference: f k a u two four
+2020-02-11 04:56:38,465 - INFO - Step time: 0.3653750419616699 seconds
+2020-02-11 04:56:43,649 - INFO - Finished epoch 27 in 11.253911972045898
+2020-02-11 04:56:43,650 - INFO - Starting epoch 28
+2020-02-11 04:56:47,446 - INFO - Step: 850
+2020-02-11 04:56:47,451 - INFO - Loss: 1.4703811407089233
+2020-02-11 04:56:47,452 - INFO - training_batch_WER:  5.82%
+2020-02-11 04:56:47,452 - INFO - Prediction: erse n t d i c five nine one
+2020-02-11 04:56:47,453 - INFO - Reference: erase n t d i c five nine one
+2020-02-11 04:56:47,454 - INFO - Step time: 0.3012046813964844 seconds
+2020-02-11 04:56:54,962 - INFO - Finished epoch 28 in 11.311806917190552
+2020-02-11 04:56:54,963 - INFO - Starting epoch 29
+2020-02-11 04:56:57,303 - INFO - Step: 875
+2020-02-11 04:56:57,308 - INFO - Loss: 1.0952633619308472
+2020-02-11 04:56:57,309 - INFO - training_batch_WER:  4.32%
+2020-02-11 04:56:57,309 - INFO - Prediction: ten thirty one fifty eight
+2020-02-11 04:56:57,310 - INFO - Reference: ten thirty one fifty eight
+2020-02-11 04:56:57,311 - INFO - Step time: 0.3304588794708252 seconds
+2020-02-11 04:57:06,459 - INFO - Finished epoch 29 in 11.495328664779663
+2020-02-11 04:57:06,460 - INFO - Starting epoch 30
+2020-02-11 04:57:06,905 - INFO - Step: 900
+2020-02-11 04:57:06,912 - INFO - Loss: 1.374744176864624
+2020-02-11 04:57:06,912 - INFO - training_batch_WER:  8.37%
+2020-02-11 04:57:06,913 - INFO - Prediction: b r o a d h e  d r o a d
+2020-02-11 04:57:06,914 - INFO - Reference: b r o a d h e a d r o a d
+2020-02-11 04:57:06,914 - INFO - Step time: 0.4235668182373047 seconds
+2020-02-11 04:57:16,335 - INFO - Step: 925
+2020-02-11 04:57:16,340 - INFO - Loss: 1.2791171073913574
+2020-02-11 04:57:16,341 - INFO - training_batch_WER:  12.18%
+2020-02-11 04:57:16,341 - INFO - Prediction: e a s te n d a v e
+2020-02-11 04:57:16,341 - INFO - Reference: e a s t e n d a v e
+2020-02-11 04:57:16,342 - INFO - Step time: 0.32749271392822266 seconds
+2020-02-11 04:57:17,726 - INFO - Finished epoch 30 in 11.264859676361084
+2020-02-11 04:57:17,726 - INFO - Starting epoch 31
+2020-02-11 04:57:25,649 - INFO - Step: 950
+2020-02-11 04:57:25,655 - INFO - Loss: 0.8084267973899841
+2020-02-11 04:57:25,655 - INFO - training_batch_WER:  3.38%
+2020-02-11 04:57:25,656 - INFO - Prediction: s e w i c k l e y
+2020-02-11 04:57:25,656 - INFO - Reference: s e w i c k l e y
+2020-02-11 04:57:25,658 - INFO - Step time: 0.40656542778015137 seconds
+2020-02-11 04:57:29,123 - INFO - Finished epoch 31 in 11.396442651748657
+2020-02-11 04:57:29,124 - INFO - Starting epoch 32
+2020-02-11 04:57:35,195 - INFO - Step: 975
+2020-02-11 04:57:35,201 - INFO - Loss: 2.5799388885498047
+2020-02-11 04:57:35,201 - INFO - training_batch_WER:  9.09%
+2020-02-11 04:57:35,202 - INFO - Prediction: m aa r n e l l
+2020-02-11 04:57:35,202 - INFO - Reference: m a r n e l l
+2020-02-11 04:57:35,203 - INFO - Step time: 0.28696203231811523 seconds
+2020-02-11 04:57:40,398 - INFO - Finished epoch 32 in 11.273869514465332
+2020-02-11 04:57:40,399 - INFO - Starting epoch 33
+2020-02-11 04:57:44,658 - INFO - Step: 1000
+2020-02-11 04:57:44,664 - INFO - Loss: 1.0552442073822021
+2020-02-11 04:57:44,665 - INFO - training_batch_WER:  5.98%
+2020-02-11 04:57:44,665 - INFO - Prediction: enter fifty five
+2020-02-11 04:57:44,665 - INFO - Reference: enter fifty five
+2020-02-11 04:57:44,666 - INFO - Step time: 0.3262190818786621 seconds
+2020-02-11 04:57:44,667 - INFO - Doing Evaluation ..............................
+2020-02-11 04:57:45,308 - INFO - ==========>>>>>>Evaluation Loss: 12.567482948303223
+2020-02-11 04:57:45,309 - INFO - ==========>>>>>>Evaluation WER:  28.07%
+2020-02-11 04:57:45,309 - INFO - Evaluation time: 0.64229416847229 seconds
+2020-02-11 04:57:45,373 - INFO - Saved checkpoint: ./an4_checkpoints/trainer-STEP-1000.pt
+2020-02-11 04:57:52,496 - INFO - Finished epoch 33 in 12.096189260482788
+2020-02-11 04:57:52,497 - INFO - Starting epoch 34
+2020-02-11 04:57:54,723 - INFO - Step: 1025
+2020-02-11 04:57:54,729 - INFO - Loss: 0.8550663590431213
+2020-02-11 04:57:54,729 - INFO - training_batch_WER:  4.00%
+2020-02-11 04:57:54,730 - INFO - Prediction: m c k e s p o r t
+2020-02-11 04:57:54,730 - INFO - Reference: m c k e e s p o r t
+2020-02-11 04:57:54,731 - INFO - Step time: 0.37602686882019043 seconds
+2020-02-11 04:58:03,819 - INFO - Finished epoch 34 in 11.321621894836426
+2020-02-11 04:58:03,820 - INFO - Starting epoch 35
+2020-02-11 04:58:04,237 - INFO - Step: 1050
+2020-02-11 04:58:04,244 - INFO - Loss: 0.9272003173828125
+2020-02-11 04:58:04,245 - INFO - training_batch_WER:  6.77%
+2020-02-11 04:58:04,245 - INFO - Prediction: enter four fifty one
+2020-02-11 04:58:04,246 - INFO - Reference: enter four fifty one
+2020-02-11 04:58:04,247 - INFO - Step time: 0.40741848945617676 seconds
+2020-02-11 04:58:13,786 - INFO - Step: 1075
+2020-02-11 04:58:13,792 - INFO - Loss: 0.9882955551147461
+2020-02-11 04:58:13,792 - INFO - training_batch_WER:  5.65%
+2020-02-11 04:58:13,793 - INFO - Prediction: two four two two nine one two
+2020-02-11 04:58:13,793 - INFO - Reference: two four two two nine one two
+2020-02-11 04:58:13,795 - INFO - Step time: 0.3561739921569824 seconds
+2020-02-11 04:58:15,119 - INFO - Finished epoch 35 in 11.297789096832275
+2020-02-11 04:58:15,119 - INFO - Starting epoch 36
+2020-02-11 04:58:22,998 - INFO - Step: 1100
+2020-02-11 04:58:23,005 - INFO - Loss: 1.264717936515808
+2020-02-11 04:58:23,005 - INFO - training_batch_WER:  6.99%
+2020-02-11 04:58:23,005 - INFO - Prediction: enter forty three forty five
+2020-02-11 04:58:23,006 - INFO - Reference: enter forty three forty five
+2020-02-11 04:58:23,007 - INFO - Step time: 0.3981649875640869 seconds
+2020-02-11 04:58:26,220 - INFO - Finished epoch 36 in 11.099899291992188
+2020-02-11 04:58:26,220 - INFO - Starting epoch 37
+2020-02-11 04:58:32,185 - INFO - Step: 1125
+2020-02-11 04:58:32,191 - INFO - Loss: 0.9943429231643677
+2020-02-11 04:58:32,191 - INFO - training_batch_WER:  4.52%
+2020-02-11 04:58:32,192 - INFO - Prediction: one three six
+2020-02-11 04:58:32,192 - INFO - Reference: one three six
+2020-02-11 04:58:32,194 - INFO - Step time: 0.41045570373535156 seconds
+2020-02-11 04:58:37,404 - INFO - Finished epoch 37 in 11.182844400405884
+2020-02-11 04:58:37,405 - INFO - Starting epoch 38
+2020-02-11 04:58:41,574 - INFO - Step: 1150
+2020-02-11 04:58:41,580 - INFO - Loss: 1.3534362316131592
+2020-02-11 04:58:41,580 - INFO - training_batch_WER:  9.15%
+2020-02-11 04:58:41,580 - INFO - Prediction: enter ninet four
+2020-02-11 04:58:41,581 - INFO - Reference: enter ninety four
+2020-02-11 04:58:41,582 - INFO - Step time: 0.3817410469055176 seconds
+2020-02-11 04:58:48,742 - INFO - Finished epoch 38 in 11.336833953857422
+2020-02-11 04:58:48,743 - INFO - Starting epoch 39
+2020-02-11 04:58:51,149 - INFO - Step: 1175
+2020-02-11 04:58:51,155 - INFO - Loss: 0.4130213260650635
+2020-02-11 04:58:51,155 - INFO - training_batch_WER:  2.20%
+2020-02-11 04:58:51,155 - INFO - Prediction: j o s e p h
+2020-02-11 04:58:51,156 - INFO - Reference: j o s e p h
+2020-02-11 04:58:51,157 - INFO - Step time: 0.3652608394622803 seconds
+2020-02-11 04:58:59,923 - INFO - Finished epoch 39 in 11.179683208465576
+2020-02-11 04:58:59,924 - INFO - Starting epoch 40
+2020-02-11 04:59:00,311 - INFO - Step: 1200
+2020-02-11 04:59:00,317 - INFO - Loss: 0.9539294838905334
+2020-02-11 04:59:00,317 - INFO - training_batch_WER:  3.59%
+2020-02-11 04:59:00,318 - INFO - Prediction: a s p n e s
+2020-02-11 04:59:00,318 - INFO - Reference: a s p n e s
+2020-02-11 04:59:00,319 - INFO - Step time: 0.3761632442474365 seconds
+2020-02-11 04:59:09,717 - INFO - Step: 1225
+2020-02-11 04:59:09,722 - INFO - Loss: 0.5601794123649597
+2020-02-11 04:59:09,723 - INFO - training_batch_WER:  3.61%
+2020-02-11 04:59:09,723 - INFO - Prediction: seven may nineteen forty four
+2020-02-11 04:59:09,724 - INFO - Reference: seven may nineteen forty four
+2020-02-11 04:59:09,725 - INFO - Step time: 0.32486438751220703 seconds
+2020-02-11 04:59:11,079 - INFO - Finished epoch 40 in 11.154867887496948
+2020-02-11 04:59:11,080 - INFO - Starting epoch 41
+2020-02-11 04:59:18,952 - INFO - Step: 1250
+2020-02-11 04:59:18,957 - INFO - Loss: 1.042044997215271
+2020-02-11 04:59:18,958 - INFO - training_batch_WER:  5.49%
+2020-02-11 04:59:18,958 - INFO - Prediction: one five two oh six
+2020-02-11 04:59:18,959 - INFO - Reference: one five two oh six
+2020-02-11 04:59:18,960 - INFO - Step time: 0.31546902656555176 seconds
+2020-02-11 04:59:22,333 - INFO - Finished epoch 41 in 11.252785682678223
+2020-02-11 04:59:22,333 - INFO - Starting epoch 42
+2020-02-11 04:59:28,206 - INFO - Step: 1275
+2020-02-11 04:59:28,212 - INFO - Loss: 0.8273002505302429
+2020-02-11 04:59:28,212 - INFO - training_batch_WER:  2.75%
+2020-02-11 04:59:28,213 - INFO - Prediction: rubout t j j c l two
+2020-02-11 04:59:28,213 - INFO - Reference: rubout t j j c l two
+2020-02-11 04:59:28,214 - INFO - Step time: 0.32593417167663574 seconds
+2020-02-11 04:59:33,169 - INFO - Finished epoch 42 in 10.835245132446289
+2020-02-11 04:59:33,170 - INFO - Starting epoch 43
+2020-02-11 04:59:37,336 - INFO - Step: 1300
+2020-02-11 04:59:37,342 - INFO - Loss: 1.146740436553955
+2020-02-11 04:59:37,343 - INFO - training_batch_WER:  7.98%
+2020-02-11 04:59:37,343 - INFO - Prediction: three six one zero one five five
+2020-02-11 04:59:37,344 - INFO - Reference: three six one zero one five five
+2020-02-11 04:59:37,345 - INFO - Step time: 0.39184069633483887 seconds
+2020-02-11 04:59:44,161 - INFO - Finished epoch 43 in 10.989931583404541
+2020-02-11 04:59:44,161 - INFO - Starting epoch 44
+2020-02-11 04:59:46,348 - INFO - Step: 1325
+2020-02-11 04:59:46,353 - INFO - Loss: 0.9197221994400024
+2020-02-11 04:59:46,353 - INFO - training_batch_WER:  4.91%
+2020-02-11 04:59:46,354 - INFO - Prediction: four two two oh eight one six
+2020-02-11 04:59:46,354 - INFO - Reference: four two two oh eight one six
+2020-02-11 04:59:46,355 - INFO - Step time: 0.2918095588684082 seconds
+2020-02-11 04:59:55,378 - INFO - Finished epoch 44 in 11.216609716415405
+2020-02-11 04:59:55,379 - INFO - Starting epoch 45
+2020-02-11 04:59:55,774 - INFO - Step: 1350
+2020-02-11 04:59:55,780 - INFO - Loss: 0.886076807975769
+2020-02-11 04:59:55,780 - INFO - training_batch_WER:  3.33%
+2020-02-11 04:59:55,781 - INFO - Prediction: five six four zero
+2020-02-11 04:59:55,781 - INFO - Reference: five six four zero
+2020-02-11 04:59:55,782 - INFO - Step time: 0.3829154968261719 seconds
+2020-02-11 05:00:05,005 - INFO - Step: 1375
+2020-02-11 05:00:05,010 - INFO - Loss: 1.2311501502990723
+2020-02-11 05:00:05,011 - INFO - training_batch_WER:  6.29%
+2020-02-11 05:00:05,011 - INFO - Prediction: yes
+2020-02-11 05:00:05,012 - INFO - Reference: yes
+2020-02-11 05:00:05,013 - INFO - Step time: 0.36546921730041504 seconds
+2020-02-11 05:00:06,477 - INFO - Finished epoch 45 in 11.09786605834961
+2020-02-11 05:00:06,478 - INFO - Starting epoch 46
+2020-02-11 05:00:14,354 - INFO - Step: 1400
+2020-02-11 05:00:14,360 - INFO - Loss: 0.7048904895782471
+2020-02-11 05:00:14,360 - INFO - training_batch_WER:  6.42%
+2020-02-11 05:00:14,361 - INFO - Prediction: s a t t e r f i e l d
+2020-02-11 05:00:14,361 - INFO - Reference: s a t t e r f i e l d
+2020-02-11 05:00:14,362 - INFO - Step time: 0.31284260749816895 seconds
+2020-02-11 05:00:17,548 - INFO - Finished epoch 46 in 11.068788528442383
+2020-02-11 05:00:17,548 - INFO - Starting epoch 47
+2020-02-11 05:00:23,614 - INFO - Step: 1425
+2020-02-11 05:00:23,620 - INFO - Loss: 0.27541476488113403
+2020-02-11 05:00:23,620 - INFO - training_batch_WER:  1.11%
+2020-02-11 05:00:23,621 - INFO - Prediction: erase w e s f twenty four oh three
+2020-02-11 05:00:23,621 - INFO - Reference: erase w e s f twenty four oh three
+2020-02-11 05:00:23,622 - INFO - Step time: 0.41509366035461426 seconds
+2020-02-11 05:00:28,663 - INFO - Finished epoch 47 in 11.114603281021118
+2020-02-11 05:00:28,664 - INFO - Starting epoch 48
+2020-02-11 05:00:32,903 - INFO - Step: 1450
+2020-02-11 05:00:32,910 - INFO - Loss: 0.5756767392158508
+2020-02-11 05:00:32,911 - INFO - training_batch_WER:  2.30%
+2020-02-11 05:00:32,911 - INFO - Prediction: rubout v a n b x nine
+2020-02-11 05:00:32,911 - INFO - Reference: rubout v a n b x nine
+2020-02-11 05:00:32,913 - INFO - Step time: 0.3920903205871582 seconds
+2020-02-11 05:00:39,756 - INFO - Finished epoch 48 in 11.091678857803345
+2020-02-11 05:00:39,757 - INFO - Starting epoch 49
+2020-02-11 05:00:42,152 - INFO - Step: 1475
+2020-02-11 05:00:42,158 - INFO - Loss: 1.3151421546936035
+2020-02-11 05:00:42,158 - INFO - training_batch_WER:  2.16%
+2020-02-11 05:00:42,159 - INFO - Prediction: one five two three two
+2020-02-11 05:00:42,160 - INFO - Reference: one five two three two
+2020-02-11 05:00:42,161 - INFO - Step time: 0.3722984790802002 seconds
+2020-02-11 05:00:50,953 - INFO - Finished epoch 49 in 11.195255756378174
+2020-02-11 05:00:50,953 - INFO - Starting epoch 50
+2020-02-11 05:00:51,274 - INFO - Step: 1500
+2020-02-11 05:00:51,280 - INFO - Loss: 1.1254440546035767
+2020-02-11 05:00:51,280 - INFO - training_batch_WER:  5.03%
+2020-02-11 05:00:51,281 - INFO - Prediction: go
+2020-02-11 05:00:51,281 - INFO - Reference: go
+2020-02-11 05:00:51,282 - INFO - Step time: 0.31243109703063965 seconds
+2020-02-11 05:00:51,283 - INFO - Doing Evaluation ..............................
+2020-02-11 05:00:51,919 - INFO - ==========>>>>>>Evaluation Loss: 16.604833602905273
+2020-02-11 05:00:51,920 - INFO - ==========>>>>>>Evaluation WER:  26.65%
+2020-02-11 05:00:51,921 - INFO - Evaluation time: 0.6373946666717529 seconds
+2020-02-11 05:01:01,266 - INFO - Step: 1525
+2020-02-11 05:01:01,273 - INFO - Loss: 0.2785938084125519
+2020-02-11 05:01:01,273 - INFO - training_batch_WER:  2.23%
+2020-02-11 05:01:01,274 - INFO - Prediction: eight oh three two three four five nine seven two
+2020-02-11 05:01:01,274 - INFO - Reference: eight oh three two three four five nine seven two
+2020-02-11 05:01:01,275 - INFO - Step time: 0.4088432788848877 seconds
+2020-02-11 05:01:02,696 - INFO - Finished epoch 50 in 11.741955995559692
+2020-02-11 05:01:02,697 - INFO - Starting epoch 51
+2020-02-11 05:01:10,608 - INFO - Step: 1550
+2020-02-11 05:01:10,614 - INFO - Loss: 1.7155063152313232
+2020-02-11 05:01:10,614 - INFO - training_batch_WER:  8.10%
+2020-02-11 05:01:10,615 - INFO - Prediction: b r  n n a n
+2020-02-11 05:01:10,615 - INFO - Reference: b r e n n a n
+2020-02-11 05:01:10,616 - INFO - Step time: 0.3359084129333496 seconds
+2020-02-11 05:01:13,935 - INFO - Finished epoch 51 in 11.238063335418701
+2020-02-11 05:01:13,936 - INFO - Starting epoch 52
+2020-02-11 05:01:19,756 - INFO - Step: 1575
+2020-02-11 05:01:19,762 - INFO - Loss: 0.4841376543045044
+2020-02-11 05:01:19,763 - INFO - training_batch_WER:  3.75%
+2020-02-11 05:01:19,763 - INFO - Prediction: t h a y e r
+2020-02-11 05:01:19,764 - INFO - Reference: t h a y e r
+2020-02-11 05:01:19,765 - INFO - Step time: 0.3983933925628662 seconds
+2020-02-11 05:01:24,995 - INFO - Finished epoch 52 in 11.05893325805664
+2020-02-11 05:01:24,996 - INFO - Starting epoch 53
+2020-02-11 05:01:28,987 - INFO - Step: 1600
+2020-02-11 05:01:28,993 - INFO - Loss: 0.3683108985424042
+2020-02-11 05:01:28,993 - INFO - training_batch_WER:  1.46%
+2020-02-11 05:01:28,994 - INFO - Prediction: b r o n x v i l l e
+2020-02-11 05:01:28,994 - INFO - Reference: b r o n x v i l l e
+2020-02-11 05:01:28,995 - INFO - Step time: 0.3684813976287842 seconds
+2020-02-11 05:01:36,298 - INFO - Finished epoch 53 in 11.301630735397339
+2020-02-11 05:01:36,299 - INFO - Starting epoch 54
+2020-02-11 05:01:38,452 - INFO - Step: 1625
+2020-02-11 05:01:38,457 - INFO - Loss: 0.4061039090156555
+2020-02-11 05:01:38,457 - INFO - training_batch_WER:  3.14%
+2020-02-11 05:01:38,458 - INFO - Prediction: erasej g q y eight fix one
+2020-02-11 05:01:38,458 - INFO - Reference: erase j g q y eight six one
+2020-02-11 05:01:38,459 - INFO - Step time: 0.31537866592407227 seconds
+2020-02-11 05:01:47,478 - INFO - Finished epoch 54 in 11.178574085235596
+2020-02-11 05:01:47,478 - INFO - Starting epoch 55
+2020-02-11 05:01:47,886 - INFO - Step: 1650
+2020-02-11 05:01:47,892 - INFO - Loss: 0.6606951951980591
+2020-02-11 05:01:47,892 - INFO - training_batch_WER:  5.08%
+2020-02-11 05:01:47,892 - INFO - Prediction: j s p s z nine six nine
+2020-02-11 05:01:47,893 - INFO - Reference: j s p s z nine six nine
+2020-02-11 05:01:47,894 - INFO - Step time: 0.39899611473083496 seconds
+2020-02-11 05:01:57,264 - INFO - Step: 1675
+2020-02-11 05:01:57,269 - INFO - Loss: 1.3808249235153198
+2020-02-11 05:01:57,270 - INFO - training_batch_WER:  4.27%
+2020-02-11 05:01:57,270 - INFO - Prediction: g e e p c seven one oh seven
+2020-02-11 05:01:57,271 - INFO - Reference: g e e p c seven one oh seven
+2020-02-11 05:01:57,272 - INFO - Step time: 0.30208611488342285 seconds
+2020-02-11 05:01:58,723 - INFO - Finished epoch 55 in 11.244338750839233
+2020-02-11 05:01:58,724 - INFO - Starting epoch 56
+2020-02-11 05:02:06,739 - INFO - Step: 1700
+2020-02-11 05:02:06,745 - INFO - Loss: 0.4213866591453552
+2020-02-11 05:02:06,745 - INFO - training_batch_WER:  1.92%
+2020-02-11 05:02:06,746 - INFO - Prediction: a l m o n t
+2020-02-11 05:02:06,746 - INFO - Reference: a l m o n t
+2020-02-11 05:02:06,748 - INFO - Step time: 0.39452052116394043 seconds
+2020-02-11 05:02:09,937 - INFO - Finished epoch 56 in 11.212536811828613
+2020-02-11 05:02:09,937 - INFO - Starting epoch 57
+2020-02-11 05:02:15,983 - INFO - Step: 1725
+2020-02-11 05:02:15,988 - INFO - Loss: 0.5239087343215942
+2020-02-11 05:02:15,989 - INFO - training_batch_WER:  3.39%
+2020-02-11 05:02:15,989 - INFO - Prediction: one five two three two
+2020-02-11 05:02:15,990 - INFO - Reference: one five two three two
+2020-02-11 05:02:15,991 - INFO - Step time: 0.31456995010375977 seconds
+2020-02-11 05:02:21,247 - INFO - Finished epoch 57 in 11.309121370315552
+2020-02-11 05:02:21,248 - INFO - Starting epoch 58
+2020-02-11 05:02:25,247 - INFO - Step: 1750
+2020-02-11 05:02:25,253 - INFO - Loss: 0.628611147403717
+2020-02-11 05:02:25,253 - INFO - training_batch_WER:  3.76%
+2020-02-11 05:02:25,254 - INFO - Prediction: five t ha v e n u e
+2020-02-11 05:02:25,255 - INFO - Reference: five t h a v e n u e
+2020-02-11 05:02:25,255 - INFO - Step time: 0.3732008934020996 seconds
+2020-02-11 05:02:32,454 - INFO - Finished epoch 58 in 11.205104351043701
+2020-02-11 05:02:32,454 - INFO - Starting epoch 59
+2020-02-11 05:02:34,673 - INFO - Step: 1775
+2020-02-11 05:02:34,679 - INFO - Loss: 0.5436116456985474
+2020-02-11 05:02:34,679 - INFO - training_batch_WER:  5.98%
+2020-02-11 05:02:34,680 - INFO - Prediction: enter six o eight oh
+2020-02-11 05:02:34,681 - INFO - Reference: enter six oh eight oh
+2020-02-11 05:02:34,682 - INFO - Step time: 0.35726475715637207 seconds
+2020-02-11 05:02:43,570 - INFO - Finished epoch 59 in 11.114789009094238
+2020-02-11 05:02:43,570 - INFO - Starting epoch 60
+2020-02-11 05:02:43,988 - INFO - Step: 1800
+2020-02-11 05:02:43,995 - INFO - Loss: 0.4157099723815918
+2020-02-11 05:02:43,995 - INFO - training_batch_WER:  1.42%
+2020-02-11 05:02:43,996 - INFO - Prediction: b e c h t e l
+2020-02-11 05:02:43,996 - INFO - Reference: b e c h t e l
+2020-02-11 05:02:43,997 - INFO - Step time: 0.3986043930053711 seconds
+2020-02-11 05:02:53,286 - INFO - Step: 1825
+2020-02-11 05:02:53,292 - INFO - Loss: 0.358916312456131
+2020-02-11 05:02:53,292 - INFO - training_batch_WER:  1.01%
+2020-02-11 05:02:53,293 - INFO - Prediction: two six eight four six five eight
+2020-02-11 05:02:53,294 - INFO - Reference: two six eight four six five eight
+2020-02-11 05:02:53,295 - INFO - Step time: 0.328122615814209 seconds
+2020-02-11 05:02:54,649 - INFO - Finished epoch 60 in 11.077350378036499
+2020-02-11 05:02:54,649 - INFO - Starting epoch 61
+2020-02-11 05:03:02,640 - INFO - Step: 1850
+2020-02-11 05:03:02,646 - INFO - Loss: 0.1149124950170517
+2020-02-11 05:03:02,646 - INFO - training_batch_WER:  0.56%
+2020-02-11 05:03:02,647 - INFO - Prediction: yes
+2020-02-11 05:03:02,647 - INFO - Reference: yes
+2020-02-11 05:03:02,648 - INFO - Step time: 0.3969259262084961 seconds
+2020-02-11 05:03:06,123 - INFO - Finished epoch 61 in 11.473209381103516
+2020-02-11 05:03:06,124 - INFO - Starting epoch 62
+2020-02-11 05:03:12,154 - INFO - Step: 1875
+2020-02-11 05:03:12,161 - INFO - Loss: 1.0592217445373535
+2020-02-11 05:03:12,161 - INFO - training_batch_WER:  3.63%
+2020-02-11 05:03:12,162 - INFO - Prediction: enter seventy one
+2020-02-11 05:03:12,162 - INFO - Reference: enter seventy one
+2020-02-11 05:03:12,163 - INFO - Step time: 0.39019107818603516 seconds
+2020-02-11 05:03:17,287 - INFO - Finished epoch 62 in 11.162065982818604
+2020-02-11 05:03:17,288 - INFO - Starting epoch 63
+2020-02-11 05:03:21,645 - INFO - Step: 1900
+2020-02-11 05:03:21,652 - INFO - Loss: 0.7948654890060425
+2020-02-11 05:03:21,652 - INFO - training_batch_WER:  3.11%
+2020-02-11 05:03:21,653 - INFO - Prediction: eight oh three two three four five nine seven two
+2020-02-11 05:03:21,654 - INFO - Reference: eight oh three two three four five nine seven two
+2020-02-11 05:03:21,655 - INFO - Step time: 0.4398219585418701 seconds
+2020-02-11 05:03:28,511 - INFO - Finished epoch 63 in 11.222620248794556
+2020-02-11 05:03:28,512 - INFO - Starting epoch 64
+2020-02-11 05:03:30,897 - INFO - Step: 1925
+2020-02-11 05:03:30,903 - INFO - Loss: 0.8932301998138428
+2020-02-11 05:03:30,903 - INFO - training_batch_WER:  6.04%
+2020-02-11 05:03:30,904 - INFO - Prediction: star
+2020-02-11 05:03:30,904 - INFO - Reference: start
+2020-02-11 05:03:30,905 - INFO - Step time: 0.4013521671295166 seconds
+2020-02-11 05:03:39,968 - INFO - Finished epoch 64 in 11.45579743385315
+2020-02-11 05:03:39,969 - INFO - Starting epoch 65
+2020-02-11 05:03:40,385 - INFO - Step: 1950
+2020-02-11 05:03:40,391 - INFO - Loss: 0.44572052359580994
+2020-02-11 05:03:40,392 - INFO - training_batch_WER:  2.55%
+2020-02-11 05:03:40,392 - INFO - Prediction: p a t t e r s o n
+2020-02-11 05:03:40,393 - INFO - Reference: p a t t e r s o n
+2020-02-11 05:03:40,394 - INFO - Step time: 0.4096031188964844 seconds
+2020-02-11 05:03:50,063 - INFO - Step: 1975
+2020-02-11 05:03:50,069 - INFO - Loss: 0.6856067776679993
+2020-02-11 05:03:50,070 - INFO - training_batch_WER:  4.52%
+2020-02-11 05:03:50,070 - INFO - Prediction: start
+2020-02-11 05:03:50,071 - INFO - Reference: start
+2020-02-11 05:03:50,072 - INFO - Step time: 0.4205968379974365 seconds
+2020-02-11 05:03:51,577 - INFO - Finished epoch 65 in 11.607372522354126
+2020-02-11 05:03:51,578 - INFO - Starting epoch 66
+2020-02-11 05:03:59,478 - INFO - Step: 2000
+2020-02-11 05:03:59,483 - INFO - Loss: 0.22648170590400696
+2020-02-11 05:03:59,484 - INFO - training_batch_WER:  2.72%
+2020-02-11 05:03:59,484 - INFO - Prediction: repeat
+2020-02-11 05:03:59,485 - INFO - Reference: repeat
+2020-02-11 05:03:59,486 - INFO - Step time: 0.3307955265045166 seconds
+2020-02-11 05:03:59,486 - INFO - Doing Evaluation ..............................
+2020-02-11 05:04:00,116 - INFO - ==========>>>>>>Evaluation Loss: 14.408134460449219
+2020-02-11 05:04:00,117 - INFO - ==========>>>>>>Evaluation WER:  22.77%
+2020-02-11 05:04:00,117 - INFO - Evaluation time: 0.6307706832885742 seconds
+2020-02-11 05:04:00,157 - INFO - Saved checkpoint: ./an4_checkpoints/trainer-STEP-2000.pt
+2020-02-11 05:04:03,408 - INFO - Finished epoch 66 in 11.82964301109314
+2020-02-11 05:04:03,409 - INFO - Starting epoch 67
+2020-02-11 05:04:09,111 - INFO - Step: 2025
+2020-02-11 05:04:09,117 - INFO - Loss: 1.010648488998413
+2020-02-11 05:04:09,118 - INFO - training_batch_WER:  3.76%
+2020-02-11 05:04:09,118 - INFO - Prediction: four two two zero seven nine one
+2020-02-11 05:04:09,119 - INFO - Reference: four two two zero seven nine one
+2020-02-11 05:04:09,120 - INFO - Step time: 0.39531707763671875 seconds
+2020-02-11 05:04:14,485 - INFO - Finished epoch 67 in 11.07530164718628
+2020-02-11 05:04:14,486 - INFO - Starting epoch 68
+2020-02-11 05:04:18,633 - INFO - Step: 2050
+2020-02-11 05:04:18,639 - INFO - Loss: 0.7407209873199463
+2020-02-11 05:04:18,639 - INFO - training_batch_WER:  3.68%
+2020-02-11 05:04:18,640 - INFO - Prediction: t h a y e r
+2020-02-11 05:04:18,640 - INFO - Reference: t h a y e r
+2020-02-11 05:04:18,641 - INFO - Step time: 0.38767194747924805 seconds
+2020-02-11 05:04:25,555 - INFO - Finished epoch 68 in 11.06918478012085
+2020-02-11 05:04:25,556 - INFO - Starting epoch 69
+2020-02-11 05:04:27,691 - INFO - Step: 2075
+2020-02-11 05:04:27,697 - INFO - Loss: 0.4179624617099762
+2020-02-11 05:04:27,698 - INFO - training_batch_WER:  1.91%
+2020-02-11 05:04:27,698 - INFO - Prediction: en g n n three nine nine
+2020-02-11 05:04:27,698 - INFO - Reference: n g n n three nine nine
+2020-02-11 05:04:27,700 - INFO - Step time: 0.41677379608154297 seconds
+2020-02-11 05:04:36,840 - INFO - Finished epoch 69 in 11.283077001571655
+2020-02-11 05:04:36,840 - INFO - Starting epoch 70
+2020-02-11 05:04:37,248 - INFO - Step: 2100
+2020-02-11 05:04:37,254 - INFO - Loss: 0.6794134974479675
+2020-02-11 05:04:37,254 - INFO - training_batch_WER:  3.03%
+2020-02-11 05:04:37,255 - INFO - Prediction: c h a r l e s
+2020-02-11 05:04:37,255 - INFO - Reference: c h a r l e s
+2020-02-11 05:04:37,257 - INFO - Step time: 0.39984703063964844 seconds
+2020-02-11 05:04:46,785 - INFO - Step: 2125
+2020-02-11 05:04:46,790 - INFO - Loss: 0.34577858448028564
+2020-02-11 05:04:46,791 - INFO - training_batch_WER:  2.81%
+2020-02-11 05:04:46,791 - INFO - Prediction: one five two three eight
+2020-02-11 05:04:46,792 - INFO - Reference: one five two three eight
+2020-02-11 05:04:46,793 - INFO - Step time: 0.33568763732910156 seconds
+2020-02-11 05:04:48,243 - INFO - Finished epoch 70 in 11.401943922042847
+2020-02-11 05:04:48,243 - INFO - Starting epoch 71
+2020-02-11 05:04:56,135 - INFO - Step: 2150
+2020-02-11 05:04:56,140 - INFO - Loss: 0.6055635213851929
+2020-02-11 05:04:56,141 - INFO - training_batch_WER:  2.63%
+2020-02-11 05:04:56,141 - INFO - Prediction: yes
+2020-02-11 05:04:56,142 - INFO - Reference: yes
+2020-02-11 05:04:56,143 - INFO - Step time: 0.32568907737731934 seconds
+2020-02-11 05:04:59,323 - INFO - Finished epoch 71 in 11.079099893569946
+2020-02-11 05:04:59,324 - INFO - Starting epoch 72
+2020-02-11 05:05:05,128 - INFO - Step: 2175
+2020-02-11 05:05:05,135 - INFO - Loss: 0.48187461495399475
+2020-02-11 05:05:05,135 - INFO - training_batch_WER:  4.40%
+2020-02-11 05:05:05,135 - INFO - Prediction: g
+2020-02-11 05:05:05,136 - INFO - Reference: go
+2020-02-11 05:05:05,137 - INFO - Step time: 0.4066190719604492 seconds
+2020-02-11 05:05:10,499 - INFO - Finished epoch 72 in 11.174816131591797
+2020-02-11 05:05:10,500 - INFO - Starting epoch 73
+2020-02-11 05:05:14,632 - INFO - Step: 2200
+2020-02-11 05:05:14,638 - INFO - Loss: 0.5791877508163452
+2020-02-11 05:05:14,639 - INFO - training_batch_WER:  3.53%
+2020-02-11 05:05:14,639 - INFO - Prediction: four one two five two one eight two six oh
+2020-02-11 05:05:14,639 - INFO - Reference: four one two five two one eight two six oh
+2020-02-11 05:05:14,640 - INFO - Step time: 0.42159485816955566 seconds
+2020-02-11 05:05:21,785 - INFO - Finished epoch 73 in 11.28373098373413
+2020-02-11 05:05:21,786 - INFO - Starting epoch 74
+2020-02-11 05:05:24,085 - INFO - Step: 2225
+2020-02-11 05:05:24,091 - INFO - Loss: 0.30170193314552307
+2020-02-11 05:05:24,092 - INFO - training_batch_WER:  2.21%
+2020-02-11 05:05:24,093 - INFO - Prediction: may ninth sixty two
+2020-02-11 05:05:24,093 - INFO - Reference: may ninth sixty two
+2020-02-11 05:05:24,094 - INFO - Step time: 0.4032275676727295 seconds
+2020-02-11 05:05:33,312 - INFO - Finished epoch 74 in 11.525518894195557
+2020-02-11 05:05:33,312 - INFO - Starting epoch 75
+2020-02-11 05:05:33,655 - INFO - Step: 2250
+2020-02-11 05:05:33,660 - INFO - Loss: 1.1920753717422485
+2020-02-11 05:05:33,661 - INFO - training_batch_WER:  2.21%
+2020-02-11 05:05:33,661 - INFO - Prediction: d a l c e l l
+2020-02-11 05:05:33,662 - INFO - Reference: d a l z e l l
+2020-02-11 05:05:33,663 - INFO - Step time: 0.33335185050964355 seconds
+2020-02-11 05:05:43,240 - INFO - Step: 2275
+2020-02-11 05:05:43,246 - INFO - Loss: 0.1473473161458969
+2020-02-11 05:05:43,246 - INFO - training_batch_WER:  0.51%
+2020-02-11 05:05:43,247 - INFO - Prediction: w h i t n e y
+2020-02-11 05:05:43,247 - INFO - Reference: w h i t n e y
+2020-02-11 05:05:43,248 - INFO - Step time: 0.3743631839752197 seconds
+2020-02-11 05:05:44,723 - INFO - Finished epoch 75 in 11.409789562225342
+2020-02-11 05:05:44,723 - INFO - Starting epoch 76
+2020-02-11 05:05:52,949 - INFO - Step: 2300
+2020-02-11 05:05:52,954 - INFO - Loss: 0.35129785537719727
+2020-02-11 05:05:52,955 - INFO - training_batch_WER:  1.56%
+2020-02-11 05:05:52,955 - INFO - Prediction: d e r e k
+2020-02-11 05:05:52,955 - INFO - Reference: d e r e k
+2020-02-11 05:05:52,956 - INFO - Step time: 0.30414605140686035 seconds
+2020-02-11 05:05:56,136 - INFO - Finished epoch 76 in 11.411748170852661
+2020-02-11 05:05:56,136 - INFO - Starting epoch 77
+2020-02-11 05:06:02,222 - INFO - Step: 2325
+2020-02-11 05:06:02,227 - INFO - Loss: 0.19140444695949554
+2020-02-11 05:06:02,227 - INFO - training_batch_WER:  0.57%
+2020-02-11 05:06:02,228 - INFO - Prediction: four four oh six five
+2020-02-11 05:06:02,228 - INFO - Reference: four four oh six five
+2020-02-11 05:06:02,229 - INFO - Step time: 0.3256063461303711 seconds
+2020-02-11 05:06:07,313 - INFO - Finished epoch 77 in 11.176700353622437
+2020-02-11 05:06:07,314 - INFO - Starting epoch 78
+2020-02-11 05:06:11,243 - INFO - Step: 2350
+2020-02-11 05:06:11,248 - INFO - Loss: 0.2331993281841278
+2020-02-11 05:06:11,249 - INFO - training_batch_WER:  1.65%
+2020-02-11 05:06:11,250 - INFO - Prediction: two six eight four six five eigh
+2020-02-11 05:06:11,250 - INFO - Reference: two six eight four six five eight
+2020-02-11 05:06:11,252 - INFO - Step time: 0.3311028480529785 seconds
+2020-02-11 05:06:18,370 - INFO - Finished epoch 78 in 11.055592060089111
+2020-02-11 05:06:18,371 - INFO - Starting epoch 79
+2020-02-11 05:06:20,609 - INFO - Step: 2375
+2020-02-11 05:06:20,615 - INFO - Loss: 0.2952861785888672
+2020-02-11 05:06:20,615 - INFO - training_batch_WER:  1.14%
+2020-02-11 05:06:20,615 - INFO - Prediction: repeat
+2020-02-11 05:06:20,616 - INFO - Reference: repeat
+2020-02-11 05:06:20,617 - INFO - Step time: 0.36675214767456055 seconds
+2020-02-11 05:06:29,674 - INFO - Finished epoch 79 in 11.302311658859253
+2020-02-11 05:06:29,674 - INFO - Starting epoch 80
+2020-02-11 05:06:30,072 - INFO - Step: 2400
+2020-02-11 05:06:30,078 - INFO - Loss: 0.5491034984588623
+2020-02-11 05:06:30,079 - INFO - training_batch_WER:  2.49%
+2020-02-11 05:06:30,079 - INFO - Prediction: s t o d o l s k y
+2020-02-11 05:06:30,080 - INFO - Reference: s t o d o l s k y
+2020-02-11 05:06:30,081 - INFO - Step time: 0.3862264156341553 seconds
+2020-02-11 05:06:39,424 - INFO - Step: 2425
+2020-02-11 05:06:39,430 - INFO - Loss: 0.4117119610309601
+2020-02-11 05:06:39,431 - INFO - training_batch_WER:  1.94%
+2020-02-11 05:06:39,431 - INFO - Prediction: rubout g j h g v seven
+2020-02-11 05:06:39,432 - INFO - Reference: rubout g j h g v seven
+2020-02-11 05:06:39,433 - INFO - Step time: 0.3994131088256836 seconds
+2020-02-11 05:06:40,895 - INFO - Finished epoch 80 in 11.220170974731445
+2020-02-11 05:06:40,896 - INFO - Starting epoch 81
+2020-02-11 05:06:48,848 - INFO - Step: 2450
+2020-02-11 05:06:48,854 - INFO - Loss: 0.11698044091463089
+2020-02-11 05:06:48,854 - INFO - training_batch_WER:  1.13%
+2020-02-11 05:06:48,855 - INFO - Prediction: j u l i e
+2020-02-11 05:06:48,855 - INFO - Reference: j u l i e
+2020-02-11 05:06:48,856 - INFO - Step time: 0.37904977798461914 seconds
+2020-02-11 05:06:52,216 - INFO - Finished epoch 81 in 11.31971001625061
+2020-02-11 05:06:52,216 - INFO - Starting epoch 82
+2020-02-11 05:06:58,142 - INFO - Step: 2475
+2020-02-11 05:06:58,147 - INFO - Loss: 0.26726552844047546
+2020-02-11 05:06:58,148 - INFO - training_batch_WER:  1.97%
+2020-02-11 05:06:58,149 - INFO - Prediction: a g l g a six four nine
+2020-02-11 05:06:58,149 - INFO - Reference: a g l g a six four nine
+2020-02-11 05:06:58,150 - INFO - Step time: 0.3325064182281494 seconds
+2020-02-11 05:07:03,499 - INFO - Finished epoch 82 in 11.282347440719604
+2020-02-11 05:07:03,500 - INFO - Starting epoch 83
+2020-02-11 05:07:07,176 - INFO - Step: 2500
+2020-02-11 05:07:07,181 - INFO - Loss: 0.6396365165710449
+2020-02-11 05:07:07,182 - INFO - training_batch_WER:  3.53%
+2020-02-11 05:07:07,183 - INFO - Prediction: rubout g u k e v nine
+2020-02-11 05:07:07,183 - INFO - Reference: rubout g u k e v nine
+2020-02-11 05:07:07,184 - INFO - Step time: 0.32496190071105957 seconds
+2020-02-11 05:07:07,185 - INFO - Doing Evaluation ..............................
+2020-02-11 05:07:07,841 - INFO - ==========>>>>>>Evaluation Loss: 17.091510772705078
+2020-02-11 05:07:07,842 - INFO - ==========>>>>>>Evaluation WER:  25.49%
+2020-02-11 05:07:07,843 - INFO - Evaluation time: 0.6575257778167725 seconds
+2020-02-11 05:07:15,099 - INFO - Finished epoch 83 in 11.597888708114624
+2020-02-11 05:07:15,099 - INFO - Starting epoch 84
+2020-02-11 05:07:17,300 - INFO - Step: 2525
+2020-02-11 05:07:17,306 - INFO - Loss: 0.2920777499675751
+2020-02-11 05:07:17,307 - INFO - training_batch_WER:  1.09%
+2020-02-11 05:07:17,307 - INFO - Prediction: j o s e p h
+2020-02-11 05:07:17,308 - INFO - Reference: j o s e p h
+2020-02-11 05:07:17,309 - INFO - Step time: 0.38001394271850586 seconds
+2020-02-11 05:07:26,562 - INFO - Finished epoch 84 in 11.462002992630005
+2020-02-11 05:07:26,563 - INFO - Starting epoch 85
+2020-02-11 05:07:26,973 - INFO - Step: 2550
+2020-02-11 05:07:26,980 - INFO - Loss: 1.4833908081054688
+2020-02-11 05:07:26,980 - INFO - training_batch_WER:  2.15%
+2020-02-11 05:07:26,981 - INFO - Prediction: one five oh four four
+2020-02-11 05:07:26,982 - INFO - Reference: one five oh four four
+2020-02-11 05:07:26,982 - INFO - Step time: 0.39987897872924805 seconds
+2020-02-11 05:07:36,514 - INFO - Step: 2575
+2020-02-11 05:07:36,521 - INFO - Loss: 0.10371500253677368
+2020-02-11 05:07:36,521 - INFO - training_batch_WER:  0.00%
+2020-02-11 05:07:36,522 - INFO - Prediction: repeat
+2020-02-11 05:07:36,522 - INFO - Reference: repeat
+2020-02-11 05:07:36,523 - INFO - Step time: 0.37473297119140625 seconds
+2020-02-11 05:07:37,947 - INFO - Finished epoch 85 in 11.383995294570923
+2020-02-11 05:07:37,948 - INFO - Starting epoch 86
+2020-02-11 05:07:45,528 - INFO - Step: 2600
+2020-02-11 05:07:45,533 - INFO - Loss: 0.32876408100128174
+2020-02-11 05:07:45,534 - INFO - training_batch_WER:  2.38%
+2020-02-11 05:07:45,534 - INFO - Prediction: enter four thousand eight hundred eighty three
+2020-02-11 05:07:45,534 - INFO - Reference: enter four thousand eight hundred eighty three
+2020-02-11 05:07:45,535 - INFO - Step time: 0.3324422836303711 seconds
+2020-02-11 05:07:48,846 - INFO - Finished epoch 86 in 10.897948265075684
+2020-02-11 05:07:48,847 - INFO - Starting epoch 87
+2020-02-11 05:07:54,903 - INFO - Step: 2625
+2020-02-11 05:07:54,908 - INFO - Loss: 0.2510387897491455
+2020-02-11 05:07:54,909 - INFO - training_batch_WER:  1.80%
+2020-02-11 05:07:54,909 - INFO - Prediction: go
+2020-02-11 05:07:54,910 - INFO - Reference: go
+2020-02-11 05:07:54,911 - INFO - Step time: 0.31533384323120117 seconds
+2020-02-11 05:08:00,055 - INFO - Finished epoch 87 in 11.207540273666382
+2020-02-11 05:08:00,056 - INFO - Starting epoch 88
+2020-02-11 05:08:04,377 - INFO - Step: 2650
+2020-02-11 05:08:04,382 - INFO - Loss: 0.23943586647510529
+2020-02-11 05:08:04,382 - INFO - training_batch_WER:  2.45%
+2020-02-11 05:08:04,383 - INFO - Prediction: p i t t s b u r g 
+2020-02-11 05:08:04,383 - INFO - Reference: p i t t s b u r g h
+2020-02-11 05:08:04,384 - INFO - Step time: 0.33681654930114746 seconds
+2020-02-11 05:08:11,136 - INFO - Finished epoch 88 in 11.079351425170898
+2020-02-11 05:08:11,137 - INFO - Starting epoch 89
+2020-02-11 05:08:13,194 - INFO - Step: 2675
+2020-02-11 05:08:13,200 - INFO - Loss: 0.3088371157646179
+2020-02-11 05:08:13,200 - INFO - training_batch_WER:  0.99%
+2020-02-11 05:08:13,201 - INFO - Prediction: d o w n i n g t o w n
+2020-02-11 05:08:13,201 - INFO - Reference: d o w n i n g t o w n
+2020-02-11 05:08:13,202 - INFO - Step time: 0.33614182472229004 seconds
+2020-02-11 05:08:22,398 - INFO - Finished epoch 89 in 11.260690212249756
+2020-02-11 05:08:22,399 - INFO - Starting epoch 90
+2020-02-11 05:08:22,828 - INFO - Step: 2700
+2020-02-11 05:08:22,834 - INFO - Loss: 0.24056005477905273
+2020-02-11 05:08:22,835 - INFO - training_batch_WER:  0.00%
+2020-02-11 05:08:22,835 - INFO - Prediction: erase s v n y ten ten
+2020-02-11 05:08:22,835 - INFO - Reference: erase s v n y ten ten
+2020-02-11 05:08:22,836 - INFO - Step time: 0.4192037582397461 seconds
+2020-02-11 05:08:32,376 - INFO - Step: 2725
+2020-02-11 05:08:32,382 - INFO - Loss: 0.36738458275794983
+2020-02-11 05:08:32,383 - INFO - training_batch_WER:  1.55%
+2020-02-11 05:08:32,383 - INFO - Prediction: w c v y eh seventy seven forty four
+2020-02-11 05:08:32,384 - INFO - Reference: w c v y h seventy seven forty four
+2020-02-11 05:08:32,385 - INFO - Step time: 0.33046483993530273 seconds
+2020-02-11 05:08:33,850 - INFO - Finished epoch 90 in 11.450858354568481
+2020-02-11 05:08:33,851 - INFO - Starting epoch 91
+2020-02-11 05:08:41,657 - INFO - Step: 2750
+2020-02-11 05:08:41,663 - INFO - Loss: 0.10439643263816833
+2020-02-11 05:08:41,663 - INFO - training_batch_WER:  0.54%
+2020-02-11 05:08:41,664 - INFO - Prediction: thirty three
+2020-02-11 05:08:41,665 - INFO - Reference: thirty three
+2020-02-11 05:08:41,665 - INFO - Step time: 0.36621856689453125 seconds
+2020-02-11 05:08:44,963 - INFO - Finished epoch 91 in 11.112056970596313
+2020-02-11 05:08:44,964 - INFO - Starting epoch 92
+2020-02-11 05:08:50,710 - INFO - Step: 2775
+2020-02-11 05:08:50,717 - INFO - Loss: 0.8812780380249023
+2020-02-11 05:08:50,717 - INFO - training_batch_WER:  5.14%
+2020-02-11 05:08:50,718 - INFO - Prediction: n i c o l e
+2020-02-11 05:08:50,718 - INFO - Reference: n i c o l e
+2020-02-11 05:08:50,719 - INFO - Step time: 0.4056971073150635 seconds
+2020-02-11 05:08:55,870 - INFO - Finished epoch 92 in 10.90526795387268
+2020-02-11 05:08:55,871 - INFO - Starting epoch 93
+2020-02-11 05:08:59,879 - INFO - Step: 2800
+2020-02-11 05:08:59,884 - INFO - Loss: 0.07057525217533112
+2020-02-11 05:08:59,884 - INFO - training_batch_WER:  0.00%
+2020-02-11 05:08:59,885 - INFO - Prediction: repeat
+2020-02-11 05:08:59,886 - INFO - Reference: repeat
+2020-02-11 05:08:59,887 - INFO - Step time: 0.29568004608154297 seconds
+2020-02-11 05:09:06,890 - INFO - Finished epoch 93 in 11.019051551818848
+2020-02-11 05:09:06,891 - INFO - Starting epoch 94
+2020-02-11 05:09:09,185 - INFO - Step: 2825
+2020-02-11 05:09:09,190 - INFO - Loss: 0.09201608598232269
+2020-02-11 05:09:09,191 - INFO - training_batch_WER:  0.55%
+2020-02-11 05:09:09,191 - INFO - Prediction: d a l z e l l
+2020-02-11 05:09:09,192 - INFO - Reference: d a l z e l l
+2020-02-11 05:09:09,193 - INFO - Step time: 0.3362584114074707 seconds
+2020-02-11 05:09:18,029 - INFO - Finished epoch 94 in 11.137115478515625
+2020-02-11 05:09:18,030 - INFO - Starting epoch 95
+2020-02-11 05:09:18,408 - INFO - Step: 2850
+2020-02-11 05:09:18,414 - INFO - Loss: 0.051618918776512146
+2020-02-11 05:09:18,414 - INFO - training_batch_WER:  0.60%
+2020-02-11 05:09:18,415 - INFO - Prediction: start
+2020-02-11 05:09:18,416 - INFO - Reference: start
+2020-02-11 05:09:18,417 - INFO - Step time: 0.37198925018310547 seconds
+2020-02-11 05:09:27,927 - INFO - Step: 2875
+2020-02-11 05:09:27,936 - INFO - Loss: 0.30958741903305054
+2020-02-11 05:09:27,937 - INFO - training_batch_WER:  3.92%
+2020-02-11 05:09:27,938 - INFO - Prediction: w r i g h t s v i l l e
+2020-02-11 05:09:27,939 - INFO - Reference: w r i g h t s v i l l e
+2020-02-11 05:09:27,940 - INFO - Step time: 0.40296173095703125 seconds
+2020-02-11 05:09:29,239 - INFO - Finished epoch 95 in 11.208194732666016
+2020-02-11 05:09:29,239 - INFO - Starting epoch 96
+2020-02-11 05:09:37,115 - INFO - Step: 2900
+2020-02-11 05:09:37,122 - INFO - Loss: 0.26804423332214355
+2020-02-11 05:09:37,122 - INFO - training_batch_WER:  2.92%
+2020-02-11 05:09:37,123 - INFO - Prediction: t v a h fifty two fifty three
+2020-02-11 05:09:37,123 - INFO - Reference: t v a h fifty two fifty three
+2020-02-11 05:09:37,124 - INFO - Step time: 0.40938425064086914 seconds
+2020-02-11 05:09:40,566 - INFO - Finished epoch 96 in 11.32622241973877
+2020-02-11 05:09:40,567 - INFO - Starting epoch 97
+2020-02-11 05:09:46,572 - INFO - Step: 2925
+2020-02-11 05:09:46,579 - INFO - Loss: 0.9151427149772644
+2020-02-11 05:09:46,579 - INFO - training_batch_WER:  3.16%
+2020-02-11 05:09:46,580 - INFO - Prediction: one five two one seven
+2020-02-11 05:09:46,580 - INFO - Reference: one five two one seven
+2020-02-11 05:09:46,581 - INFO - Step time: 0.3974275588989258 seconds
+2020-02-11 05:09:51,687 - INFO - Finished epoch 97 in 11.11986780166626
+2020-02-11 05:09:51,688 - INFO - Starting epoch 98
+2020-02-11 05:09:55,725 - INFO - Step: 2950
+2020-02-11 05:09:55,732 - INFO - Loss: 0.12821008265018463
+2020-02-11 05:09:55,732 - INFO - training_batch_WER:  1.56%
+2020-02-11 05:09:55,733 - INFO - Prediction: l r l y u seven three
+2020-02-11 05:09:55,733 - INFO - Reference: l r l y u seven three
+2020-02-11 05:09:55,734 - INFO - Step time: 0.38347482681274414 seconds
+2020-02-11 05:10:02,958 - INFO - Finished epoch 98 in 11.269439458847046
+2020-02-11 05:10:02,958 - INFO - Starting epoch 99
+2020-02-11 05:10:05,123 - INFO - Step: 2975
+2020-02-11 05:10:05,129 - INFO - Loss: 0.24934858083724976
+2020-02-11 05:10:05,129 - INFO - training_batch_WER:  1.55%
+2020-02-11 05:10:05,130 - INFO - Prediction: n e l s o n
+2020-02-11 05:10:05,130 - INFO - Reference: n e l s o n
+2020-02-11 05:10:05,132 - INFO - Step time: 0.30365967750549316 seconds
+2020-02-11 05:10:14,117 - INFO - Finished epoch 99 in 11.158710241317749
+2020-02-11 05:10:14,118 - INFO - Done in 1145.785504579544
+2020-02-11 05:10:14,119 - INFO - Final Evaluation ..............................
+2020-02-11 05:10:14,759 - INFO - ==========>>>>>>Evaluation Loss: 15.110079765319824
+2020-02-11 05:10:14,759 - INFO - ==========>>>>>>Evaluation WER:  21.60%
+2020-02-11 05:10:14,760 - INFO - Evaluation time: 0.6406867504119873 seconds
+2020-02-11 05:10:14,800 - INFO - Saved checkpoint: ./an4_checkpoints/trainer-STEP-3000.pt
+2020-02-11 05:17:27,327 - INFO - Restoring JasperEncoder from ./an4_checkpoints/JasperEncoder-STEP-3000.pt
+2020-02-11 05:17:27,858 - INFO - Restoring JasperDecoderForCTC from ./an4_checkpoints/JasperDecoderForCTC-STEP-3000.pt
+2020-02-11 05:17:27,974 - INFO - Evaluating batch 0 out of 5
+2020-02-11 05:17:28,200 - INFO - Evaluating batch 1 out of 5
+2020-02-11 05:17:28,403 - INFO - Evaluating batch 2 out of 5
+2020-02-11 05:17:28,572 - INFO - Evaluating batch 3 out of 5
+2020-02-11 05:17:28,731 - INFO - Evaluating batch 4 out of 5
+2020-02-11 06:14:10,662 - INFO - Restoring JasperEncoder from ./an4_checkpoints/JasperEncoder-STEP-3000.pt
+2020-02-11 06:14:11,297 - INFO - Restoring JasperDecoderForCTC from ./an4_checkpoints/JasperDecoderForCTC-STEP-3000.pt
+2020-02-11 06:14:11,461 - INFO - Evaluating batch 0 out of 5
+2020-02-11 06:14:12,088 - INFO - Evaluating batch 1 out of 5
+2020-02-11 06:14:12,378 - INFO - Evaluating batch 2 out of 5
+2020-02-11 06:14:12,614 - INFO - Evaluating batch 3 out of 5
+2020-02-11 06:14:12,769 - INFO - Evaluating batch 4 out of 5
+2020-02-18 07:49:29,903 - INFO - Dataset loaded with 0.71 hours. Filtered 0.00 hours.
+2020-02-18 07:49:29,952 - INFO - Dataset loaded with 0.10 hours. Filtered 0.00 hours.
+2020-02-18 07:49:29,965 - INFO - PADDING: 16
+2020-02-18 07:49:29,966 - INFO - STFT using conv

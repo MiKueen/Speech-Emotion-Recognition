@@ -1,0 +1,17 @@
+<html>
+<h1 align="center">Speech Analyser</h1>
+   <body style="border:3px solid green">
+   <div align="center">
+   <p>Upload your .wav single-channel 16kHz file for transcription!</p>
+      <form action = "http://0.0.0.0:6006/predict" method = "POST"
+         enctype = "multipart/form-data">
+         <input type = "file" name = "file" />
+         <input type = "checkbox" name="beam"> Rescore with ngram
+         <input type = "submit"/>
+      </form>
+   </div>
+   <footer align="center">
+      <a href="https://github.com/MiKueen">&copy;MiKueen</a>
+   </footer>
+   </body>
+</html>
