@@ -105,7 +105,7 @@ After download and conversion, your data folder should contain 2 json files:
 Author
 ~~~~~~
 
-MiKueen: https://github.com/MiKueen
+`MiKueen <https://github.com/MiKueen>`_
 
 
 Citation
