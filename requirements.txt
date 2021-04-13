@@ -1,6 +1,6 @@
 pillow==6.1
 torch
-tensorflow-gpu==1.15.2
+tensorflow-gpu==2.3.1
 ipython[all]
 tqdm
 sox
