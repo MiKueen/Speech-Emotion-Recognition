@@ -1,4 +1,4 @@
-pillow==9.0.1
+pillow==9.3.0
 torch
 tensorflow-gpu==2.12.0
 ipython[all]
