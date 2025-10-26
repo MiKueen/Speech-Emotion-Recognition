@@ -41,4 +41,4 @@ boto3
 matplotlib
 h5py
 youtokentome
-Werkzeug==3.0.3
+Werkzeug==3.0.6
